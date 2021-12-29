@@ -1,3 +1,4 @@
+puts "Starts from 0"
 10.times do | i|
-    p i
+    print "#{i} "
 end
