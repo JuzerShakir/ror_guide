@@ -1,11 +1,11 @@
 hash = {a: 100, b: 250, c: 300}
 hash_2 = {a: "Admin", b: "User", c: "Admin"}
 
-puts "loops through range and returns boolean\n"
+puts "loops through range and returns boolean"
 # if blocks returns true for any elements in an array it will return true
 p (1..10).any? { | ele | ele.even? }
 
-puts "\nloops through hash\n"
+puts "\nloops through hash"
 p hash.any? { | k, v | v % 100 == 0 }
 
 puts "\nloops through hash\n"
