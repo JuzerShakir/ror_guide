@@ -28,7 +28,7 @@
    l. [Nil](#nil-class)
 6. [Gems](#gems)
 7. [Extended Modules](#extended-modules)
-8. [How to Ruby?](#how-to-ruby)
+8. [Becoming Rubyist](#becoming-rubyist)
    a. [String & Symbols](#strings-symbols)
    b. [Arrays & Hashes](#arrays-hashes)
    c. [Classes](#classes)
@@ -202,7 +202,9 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 🔖 [Math](https://ruby-doc.org/3.1.2/Math.html)
 - 🔖 [English](https://ruby-doc.org/3.1.2/stdlibs/English/English.html)
 
-## How to Ruby?
+---
+
+## Becoming Rubyist
 
 - 📃 [Variables](https://juzer-shakir.medium.com/variables-in-ruby-dd56fdc5c9a1) & [Dynamic Variables](https://rosettacode.org/wiki/Dynamic_variable_names#Ruby)
 - 📃 [Constants](https://juzer-shakir.medium.com/constants-in-ruby-956c66883f28)
