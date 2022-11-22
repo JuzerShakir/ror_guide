@@ -156,7 +156,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 📃 [Explanation](https://juzer-shakir.medium.com/enumerable-module-in-ruby-7cb0e42d4b3f)
 - 📃 [each_with_object method](https://medium.com/@leizl.samano/how-to-use-each-with-object-in-ruby-dccca07bfa18)
 - 📃 [find_all vs select](https://medium.com/@elizabethkosowski/ruby-find-all-vs-select-whats-the-deal-d0e2c8e7c5cb)
-- [Iterators](https://betterprogramming.pub/6-advanced-ruby-loops-13695c20d012)
+- 📃 [Iterators](https://betterprogramming.pub/6-advanced-ruby-loops-13695c20d012)
 
 ### Enumerator Class
 
