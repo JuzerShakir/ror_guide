@@ -34,9 +34,9 @@
    c. [Classes](#classes)
    d. [Modules](#modules)
    e. [Scopes](#scopes)
+   f. [Quick Overview](#quick-overview)
 9. [Meta Programming](#meta-programming)
 10. [Misc](#misc)
-11. [Quick Overview](#quick-overview)
 
 ---
 
@@ -244,6 +244,10 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 - 🎥 [how to use blocks and bindings in Ruby to pass local variables across different scopes](https://youtu.be/FcT5nbqQH4Q) and [this is where](https://youtu.be/ogAohyQOcnE) it is used in Rails.
 
+### Quick Overview
+
+- 🎥 [A Deep Dive into the Ruby Object Model](https://youtu.be/by5fFOBhtPQ) _(Objects, Classes & Modules)_
+
 ---
 
 ## Meta Programming
@@ -267,9 +271,3 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 📃 [Generate Random Numbers](https://blog.appsignal.com/2018/07/31/generating-random-numbers-in-ruby.html)
 - 📃 [Benchmarking](https://medium.com/swlh/benchmarking-in-ruby-86a6c28c1e97)
 - 🎥 Creating Gem [P1](https://youtu.be/wu2zoy63DeU) & [P2](https://youtu.be/_RPVUwBm6U8)
-
----
-
-## Quick Overview
-
-- 🎥 [A Deep Dive into the Ruby Object Model](https://youtu.be/by5fFOBhtPQ) _(Objects, Classes & Modules)_
