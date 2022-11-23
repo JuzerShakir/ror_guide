@@ -59,15 +59,21 @@ The name 'Ruby' originated during a chat session between Matsumoto and Keiju Ish
 
 ## Installation
 
+### Ruby
+
 As a first step install GPG keys used to verify installation package: _[resource](https://rvm.io/rvm/install#install-gpg-keys)_
 
 ```bash
 gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
 ```
 
-### For Ubuntu
+#### For Ubuntu
 
 📓 Follow these [instructions](https://github.com/rvm/ubuntu_rvm).
+
+### RubyGems
+
+- 🔖 [Install or update](https://rubygems.org/pages/download) to the latest version.
 
 ---
 
@@ -190,6 +196,10 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 ---
 
 ## Gems
+
+- 🔖 [Find & install RubyGems](https://rubygems.org/)
+
+#### Important gems
 
 - 🔖 [require_all](https://rubygems.org/gems/require_all)
 - 🔖 [pry](https://rubygems.org/gems/pry)
