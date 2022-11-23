@@ -304,4 +304,6 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
   - Avoiding Distractions
   - Taking Breaks
 
-- Keynote by David Heinemeier Hansson (DHH): [Shorter version](https://youtu.be/nHIu9b4ny2o) or [Full Keynote](https://youtu.be/9LfmrkyP81M).
+- 🎥 Keynote by David Heinemeier Hansson (DHH) 👉
+  - [Important part of the keynote](https://youtu.be/nHIu9b4ny2o)
+  - [Full Keynote](https://youtu.be/9LfmrkyP81M)
