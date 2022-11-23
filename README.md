@@ -48,7 +48,7 @@ Ruby is an [interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>
 
 ## History
 
-Ruby is designed & developed by Yukihiro "Martz" Matsumoto in 1993. The motivation behind creating a new language was that he wanted a programming language which is completely object-oriented and should be easy to use as a scripting language, but he couldn't find any. So, he decided to build one.
+Ruby is designed & developed by Yukihiro Matsumoto (Matz) in 1993. The motivation behind creating a new language was that he wanted a programming language which is completely object-oriented and should be easy to use as a scripting language, but he couldn't find any. So, he decided to build one.
 
 Matz took inspiration from the languages Perl and Smalltalk. From Perl he took things like the optional parentheses and the close shell integration; from SmallTalk he took object orientation and its emphasis on message passing.
 
