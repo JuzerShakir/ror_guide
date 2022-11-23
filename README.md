@@ -5,6 +5,7 @@
 - 🎥 means its a link to a video.
 - 🔖 means its a link to a website.
 - 🙋 means its a link to an answer on stack-overflow website.
+- ⭐ Important topics
 
 # Table of Contents
 
@@ -13,13 +14,13 @@
 - [Installation](#installation)
 - [RVM](#rvm)
 - [Ruby Docs](#ruby-docs)
-  - [Numeric](#numeric-class)
-  - [String](#string-class)
+  - ⭐ [Numeric](#numeric-class)
+  - ⭐ [String](#string-class)
   - [Symbol](#symbol-class)
   - [Regex](#regex)
-  - [Array](#array-class)
-  - [Hash](#hash-class)
-  - [Enumerable](#enumerable-module)
+  - ⭐ [Array](#array-class)
+  - ⭐ [Hash](#hash-class)
+  - ⭐ [Enumerable](#enumerable-module)
   - [Enumerator](#enumerator-class)
   - [Range](#range-class)
   - [Set](#set-class)
@@ -28,13 +29,13 @@
   - [Nil](#nil-class)
 - [Gems](#gems)
 - [Extended Modules](#extended-modules)
-- [Becoming Rubyist](#becoming-rubyist)
+- ⭐ [Becoming Rubyist](#becoming-rubyist)
   - [String & Symbols](#strings-symbols)
   - [Arrays & Hashes](#arrays-hashes)
   - [Classes](#classes)
   - [Modules](#modules)
   - [Scopes](#scopes)
-  - [Quick Refresher](#quick-refresher)
+  - ⭐ [Quick Refresher](#quick-refresher)
 - [Meta Programming](#meta-programming)
 - [Misc](#misc)
 
