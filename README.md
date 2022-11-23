@@ -4,7 +4,7 @@
 - 📃 means its a link to an article.
 - 🎥 means its a link to a video.
 - 🔖 means its a link to a website.
-- 🙋 means its a link to an answer on stackoverflow website.
+- 🙋 means its a link to an answer on stack-overflow website.
 
 # Table of Contents
 
@@ -42,13 +42,13 @@
 
 ## What is Ruby?
 
-Ruby is an [interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>), [high-level](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648469?start=138#notes), [general-purpose](https://youtu.be/sKPyRVfYSHM?t=37), [garbage-collected](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648469?start=195#notes) programming language which supports [multiple programming paradigms](https://medium.com/@juzer-shakir/behind-the-scenes-in-js-da8f17f954c#77a8), such as: [functional](https://youtu.be/dAPL7MQGjyM?t=112), [imperitive](https://www.youtube.com/watch?v=yOBBkIJBEL8) and [object-oriented](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649033#notes). It was designed with an emphasis on programming productivity and simplicity.
+Ruby is an [interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>), [high-level](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648469?start=138#notes), [general-purpose](https://youtu.be/sKPyRVfYSHM?t=37), [garbage-collected](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648469?start=195#notes) programming language which supports [multiple programming paradigms](https://medium.com/@juzer-shakir/behind-the-scenes-in-js-da8f17f954c#77a8), such as: [functional](https://youtu.be/dAPL7MQGjyM?t=112), [imperative](https://www.youtube.com/watch?v=yOBBkIJBEL8) and [object-oriented](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649033#notes). It was designed with an emphasis on programming productivity and simplicity.
 
 ---
 
 ## History
 
-Ruby is designed & developed by Yukihiro "Martz" Matsumoto in 1993. The motivation behind creating a new language was that he wanted a programming language which is completely object-oriented and should be easy to use as a scripting language, but he coudn't find any. So, he decided to build one.
+Ruby is designed & developed by Yukihiro "Martz" Matsumoto in 1993. The motivation behind creating a new language was that he wanted a programming language which is completely object-oriented and should be easy to use as a scripting language, but he couldn't find any. So, he decided to build one.
 
 Matz took inspiration from the languages Perl and Smalltalk. From Perl he took things like the optional parentheses and the close shell integration; from SmallTalk he took object orientation and its emphasis on message passing.
 
@@ -138,7 +138,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
 - 🔖 [Ruby Guides](https://www.rubyguides.com/2015/05/ruby-arrays/)
 - 📃 [Looping array](https://launchschool.com/books/ruby/read/loops_iterators)
-- 📃 [Cheatsheet](https://medium.com/itnext/a-ruby-cheatsheet-for-arrays-c8e5275155b5)
+- 📃 [CheatSheet](https://medium.com/itnext/a-ruby-cheatsheet-for-arrays-c8e5275155b5)
 - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
 
 ### Hash Class
@@ -253,8 +253,8 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 ## Meta Programming
 
 1. 📃 [Basics: send, define_method, method_missing](https://medium.com/swlh/metaprogramming-in-ruby-1b69b1b54202)
-2. 🎥 [Covering the basics: Hosted by a GitHub Enginner](https://youtu.be/7RD8_KcJ9S8)
-3. 📃 [Metaclasses, class eval & instance eval](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
+2. 🎥 [Covering the basics: Hosted by a GitHub Engineer](https://youtu.be/7RD8_KcJ9S8)
+3. 📃 [Meta-Classes, class eval & instance eval](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
 4. 📃 [respond_to_missing?](https://thoughtbot.com/blog/always-define-respond-to-missing-when-overriding)
 5. 📃 [Creating DSL](https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide)
 
