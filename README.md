@@ -197,7 +197,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 ## Gems
 
-- 🔖 [Find & install RubyGems](https://rubygems.org/)
+- 🔖 [Find & install Ruby Gems](https://rubygems.org/)
 
 #### Important gems
 
