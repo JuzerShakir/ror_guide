@@ -38,6 +38,7 @@
   - ⭐ [Quick Refresher](#quick-refresher)
 - [Meta Programming](#meta-programming)
 - [Misc](#misc)
+- ⭐ [Guide to Better Programmer](#guide-to-better-programmer)
 
 ---
 
@@ -282,3 +283,25 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 📃 [Generate Random Numbers](https://blog.appsignal.com/2018/07/31/generating-random-numbers-in-ruby.html)
 - 📃 [Benchmarking](https://medium.com/swlh/benchmarking-in-ruby-86a6c28c1e97)
 - 🎥 Creating Gem [P1](https://youtu.be/wu2zoy63DeU) & [P2](https://youtu.be/_RPVUwBm6U8)
+
+---
+
+## Guide to better programmer
+
+- 📃 [5 Things I Learned After Two Years as a Software Engineer at Microsoft](https://betterprogramming.pub/5-things-i-learned-after-two-years-as-a-software-engineer-at-microsoft-65e7124651c7)
+  - Doing research to find the root cause of the problem and find the most efficient solution.
+  - Importance of test-coverage.
+  - What to solve first?
+  - Incident Management
+  - Team collaboration
+- 📃 [7 Habits I Learned From Programmers More Successful Than Me](https://betterprogramming.pub/7-habits-i-learned-from-programmers-more-successful-than-me-5f8b1cdfd3b3)
+
+  - Collaboration
+  - Documentation
+  - Keeping it simple.
+  - Don’t Get Stuck With One Language
+  - Setting Coding Standards
+  - Avoiding Distractions
+  - Taking Breaks
+
+- Keynote by David Heinemeier Hansson (DHH): [Shorter version](https://youtu.be/nHIu9b4ny2o) or [Full Keynote](https://youtu.be/9LfmrkyP81M).
