@@ -12,10 +12,10 @@
 - [Pre Interview Motivation](#pre-interview-motivation)
 - [Pre Interview](#pre-interview)
 - [Interview](#interview)
-  - [Do's and Don'ts](#dos-and-donts)
   - [Introduce Yourself](#introduce-yourself)
   - [Technical Interview](#technical-interview)
   - [Q&A](#qa)
+  - [Do's and Don'ts](#dos-and-donts)
   - [Interview the Interviewer](#interview-the-interviewer)
   - [Salary Negotiation](#salary-negotiation)
 - [Post Interview](#post-interview)
@@ -61,16 +61,6 @@
 
 ## Interview
 
-### Do's and Don'ts
-
-- 🎥 [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
-- 📃 [10 Unacceptable Responses That You Should Not Give](https://betterprogramming.pub/10-unacceptable-responses-that-you-should-not-give-at-a-job-interview-b6f0d78c23e3)
-  - Team-Related Questions
-  - Skill-Related Questions
-  - Skill-Related Questions
-  - Big Picture-Related Questions
-  - Motivation-Related Questions
-
 ### Introduce Yourself
 
 - How to Introduce yourself?
@@ -103,6 +93,16 @@
 - 🎥 [What is your weakness?](https://youtu.be/crJiaNQ2dv8)
 - 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE)
 - 🎥 [Where Do You See Yourself in 5 Years?](https://youtu.be/gGU3TunJqH0)
+
+### Do's and Don'ts
+
+- 🎥 [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
+- 📃 [10 Unacceptable Responses That You Should Not Give](https://betterprogramming.pub/10-unacceptable-responses-that-you-should-not-give-at-a-job-interview-b6f0d78c23e3)
+  - Team-Related Questions
+  - Skill-Related Questions
+  - Skill-Related Questions
+  - Big Picture-Related Questions
+  - Motivation-Related Questions
 
 ### Interview the Interviewer
 
