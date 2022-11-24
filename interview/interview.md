@@ -29,11 +29,21 @@
 
 - 🎥 [A Motivation Playlist](https://youtube.com/playlist?list=PL0ANbWdKRcgqBojON5gOp2JnWs4Hk7stw)
 
----
+- 📃 [I Reject 95% of Developers](https://betterprogramming.pub/i-reject-95-of-developers-in-an-interview-heres-how-to-become-one-of-the-top-5-aebf70ac427f) - _(mins)_
+
+  - Communicate Your Intentions.
+  - Be Honest.
+  - Have a Positive Attitude.
+  - Be Trainable
+  - Be Interested
+
+- 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(mins)_
 
 ## Preparations
 
-- 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk)
+- 🎥 [A complete overview of the preparations](https://youtu.be/nZNfSQKC-Yk) - _(28mins)_
+
+- 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk) - _(mins)_
 
 - 🔖 Revise all the built-in methods for [String](https://ruby-doc.org/3.1.2/String.html), [Array](https://ruby-doc.org/3.1.2/Array.html), [Hash](https://ruby-doc.org/3.1.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.1.2/Enumerable.html) Classes and Module respectively.
 
