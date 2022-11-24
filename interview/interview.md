@@ -45,6 +45,10 @@
 
 - 📃 [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
 
+- 🎥 _(Questions Playlist)_ [ROR FAQs](https://youtube.com/playlist?list=PL6SEI86zExmvCaLJMY9tFdP35NzCs2QdK)
+
+- 🎥 _(Playlist with answers)_ [ROR FAQs](https://youtube.com/playlist?list=PL6SEI86zExmtPEhIPXhqLAScDURdT5z19)
+
 - 📃 [I Reject 95% of Developers](https://betterprogramming.pub/i-reject-95-of-developers-in-an-interview-heres-how-to-become-one-of-the-top-5-aebf70ac427f)
 
   - Communicate Your Intentions.
