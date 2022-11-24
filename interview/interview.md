@@ -34,13 +34,13 @@
 
 - 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk)
 
-- Revise all the built-in methods for [String](https://ruby-doc.org/3.1.2/String.html), [Array](https://ruby-doc.org/3.1.2/Array.html), [Hash](https://ruby-doc.org/3.1.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.1.2/Enumerable.html) Classes and Module respectively.
+- 🔖 Revise all the built-in methods for [String](https://ruby-doc.org/3.1.2/String.html), [Array](https://ruby-doc.org/3.1.2/Array.html), [Hash](https://ruby-doc.org/3.1.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.1.2/Enumerable.html) Classes and Module respectively.
 
-- Revise all the useful shortcuts of VS-Code & your terminal.
+- 🔘 Revise all the useful shortcuts of VS-Code & your terminal.
 
-- Go through request/response cycle when user clicks on a link.
+- 🔘 Go through request/response cycle when user clicks on a link.
 
-- Go through all of the projects and prepare yourself to explain it.
+- 🔘 Go through all of the projects and prepare yourself to explain it.
 
 - 📃 [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
 
