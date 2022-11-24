@@ -29,7 +29,7 @@
 
 - 🎥 [A Motivation Playlist](https://youtube.com/playlist?list=PL0ANbWdKRcgqBojON5gOp2JnWs4Hk7stw)
 
-- 📃 [I Reject 95% of Developers](https://betterprogramming.pub/i-reject-95-of-developers-in-an-interview-heres-how-to-become-one-of-the-top-5-aebf70ac427f) - _(mins)_
+- 📃 [I Reject 95% of Developers](https://betterprogramming.pub/i-reject-95-of-developers-in-an-interview-heres-how-to-become-one-of-the-top-5-aebf70ac427f) - _(5 mins)_
 
   - Communicate Your Intentions.
   - Be Honest.
@@ -37,13 +37,13 @@
   - Be Trainable
   - Be Interested
 
-- 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(mins)_
+- 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(12 mins)_
 
 ## Preparations
 
 - 🎥 [A complete overview of the preparations](https://youtu.be/nZNfSQKC-Yk) - _(28mins)_
 
-- 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk) - _(mins)_
+- 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk) - _(6 mins)_
 
 - 🔖 Revise all the built-in methods for [String](https://ruby-doc.org/3.1.2/String.html), [Array](https://ruby-doc.org/3.1.2/Array.html), [Hash](https://ruby-doc.org/3.1.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.1.2/Enumerable.html) Classes and Module respectively.
 
@@ -53,22 +53,15 @@
 
 - 🔘 Go through all of the projects and prepare yourself to explain it.
 
-- 📃 [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)
+- 📃 [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7) - _(13 mins)_
 
 - 🎥 _(Questions Playlist)_ [ROR FAQs](https://youtube.com/playlist?list=PL6SEI86zExmvCaLJMY9tFdP35NzCs2QdK)
 
 - 🎥 _(Playlist with answers)_ [ROR FAQs](https://youtube.com/playlist?list=PL6SEI86zExmtPEhIPXhqLAScDURdT5z19)
 
-- 📃 [I Reject 95% of Developers](https://betterprogramming.pub/i-reject-95-of-developers-in-an-interview-heres-how-to-become-one-of-the-top-5-aebf70ac427f)
+- 🎥 [How to be Confident for the Interview](https://youtu.be/NA5_WyR6xYM) - _(8 mins)_
 
-  - Communicate Your Intentions.
-  - Be Honest.
-  - Have a Positive Attitude.
-  - Be Trainable
-  - Be Interested
-
-- 🎥 _(Shorts)_ [How to be Confident for the Interview](https://youtu.be/NA5_WyR6xYM)
-- 🎥 [5 ways to use charisma for first impressions](https://youtu.be/hUqhZtij7fQ?t=181)
+- 🎥 [5 ways to use charisma for first impressions](https://youtu.be/hUqhZtij7fQ?t=181) - _(6 mins)_
 
 ---
 
@@ -77,18 +70,18 @@
 ### Introduce Yourself
 
 - How to Introduce yourself?
-  - 🎥 [FIrst way](https://youtu.be/N1Ak5RSAFww)
-  - 🎥 [Second way](https://youtu.be/TiVq6ADO7XU)
+  - 🎥 [FIrst way](https://youtu.be/N1Ak5RSAFww) - _(6 mins)_
+  - 🎥 [Second way](https://youtu.be/TiVq6ADO7XU) - _(8 mins)_
 
 ### Technical Interview
 
-- 📃 [Acing the Coding Interview Even If You Can’t Solve the Problem](https://betterprogramming.pub/acing-the-coding-interview-even-if-you-cant-solve-the-problem-91a950947226)
+- 📃 [Acing the Coding Interview Even If You Can’t Solve the Problem](https://betterprogramming.pub/acing-the-coding-interview-even-if-you-cant-solve-the-problem-91a950947226) - _(6 mins)_
 
   - Ask for clarification.
   - Explain your thought process.
   - Identify Pain Points.
 
-- 📃 🎥 **The Step-by-Step Guide to Answering a Technical Question** 👉 [Article](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2) or [Video](https://youtu.be/DIR_rxusO8Q)
+- 📃 🎥 **The Step-by-Step Guide to Answering a Technical Question** 👉 [Article](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2) - _(10 mins)_ or [Video](https://youtu.be/DIR_rxusO8Q) - _(15 mins)_
 
   - **REACTO**.
   - **R**epeat the Problem and Give **E**xamples.
@@ -103,17 +96,21 @@
 
 - 🎥 _(Shorts)_ [Why we should hire you?](https://youtube.com/shorts/t2Y1TVBL3JU?feature=share)
   OR
-  🎥 ⭐ [What are your strengths?](https://youtu.be/E5Gt2W9zKJE)
+  🎥 ⭐ [What are your strengths?](https://youtu.be/E5Gt2W9zKJE) - _(13 mins)_
 
 - 🎥 _(Shorts)_ [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
-- 🎥 [What is your weakness?](https://youtu.be/crJiaNQ2dv8)
-- 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE)
-- 🎥 [Where Do You See Yourself in 5 Years?](https://youtu.be/gGU3TunJqH0)
+
+- 🎥 [What is your weakness?](https://youtu.be/crJiaNQ2dv8) - _(7 mins)_
+
+- 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE) - _(7 mins)_
+
+- 🎥 [Where Do You See Yourself in 5 Years?](https://youtu.be/gGU3TunJqH0) - _(6 mins)_
 
 ### Do's and Don'ts
 
-- 🎥 [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
-- 📃 [10 Unacceptable Responses That You Should Not Give](https://betterprogramming.pub/10-unacceptable-responses-that-you-should-not-give-at-a-job-interview-b6f0d78c23e3)
+- 🎥 _(Shorts)_ [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
+
+- 📃 [10 Unacceptable Responses That You Should Not Give](https://betterprogramming.pub/10-unacceptable-responses-that-you-should-not-give-at-a-job-interview-b6f0d78c23e3) - _(7 mins)_
   - Team-Related Questions
   - Skill-Related Questions
   - Skill-Related Questions
@@ -122,13 +119,13 @@
 
 ### Interview the Interviewer
 
-- 📃 [How to Interview Your Interviewer](https://betterprogramming.pub/software-engineer-interview-interview-your-interviewer-4964257b3c4)
+- 📃 [How to Interview Your Interviewer](https://betterprogramming.pub/software-engineer-interview-interview-your-interviewer-4964257b3c4) - _(6 mins)_
 
   - Culture.
   - Tech.
   - Deciding What Questions to Ask.
 
-- 📃 [The 4P career evaluation system](https://alexewerlof.medium.com/the-four-p-s-of-career-search-6380a61cc961)
+- 📃 [The 4P career evaluation system](https://alexewerlof.medium.com/the-four-p-s-of-career-search-6380a61cc961) - _(9 mins)_
   - People.
   - Product/Project.
   - Pay/Package.
@@ -136,7 +133,7 @@
 
 ### Salary Negotiation
 
-- 📃 [Salary Negotiation Strategy](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd)
+- 📃 [Salary Negotiation Strategy](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd) - _(5 mins)_
   - Be transparent about what you make.
   - Ask for a fair pay.
 
@@ -146,13 +143,15 @@
 
 ### After getting the Job
 
-- 🎥 [Dealing with Workspace Toxicity](https://youtu.be/nwPTrXTT7J0)
-- 🎥 [Staying positive around negative at work](https://youtu.be/8yL_LaRnj7U)
-- 🎥 [How to be more likable at work](https://youtu.be/Kjd31FdTTEM)
+- 🎥 [Dealing with Workspace Toxicity](https://youtu.be/nwPTrXTT7J0) - _(8 mins)_
+
+- 🎥 [Staying positive around negative at work](https://youtu.be/8yL_LaRnj7U) - _(5 mins)_
+
+- 🎥 [How to be more likable at work](https://youtu.be/Kjd31FdTTEM) - _(8 mins)_
 
 ### Retry?
 
-- 📃 [How To Benefit From a “Failed” Technical Interview](https://betterprogramming.pub/actionable-steps-after-coding-interview-2e904c0cc3af)
+- 📃 [How To Benefit From a “Failed” Technical Interview](https://betterprogramming.pub/actionable-steps-after-coding-interview-2e904c0cc3af) - _(5 mins)_
   - Go Over the Questions That Didn’t Go So Well During the Interview.
   - Identify Points of Failure.
   - Recall Anything That the Interviewer May Have Taught You.
