@@ -75,12 +75,15 @@
   - Identify Pain Points.
 
 - 📃 🎥 **The Step-by-Step Guide to Answering a Technical Question** 👉 [Article](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2) or [Video](https://youtu.be/DIR_rxusO8Q)
+
   - **REACTO**.
   - **R**epeat the Problem and Give **E**xamples.
   - Describe Your **A**pproach
   - Write Your **C**ode.
   - **T**est the Code.
   - Optimization.
+
+- 🖼️ [How to solve a problem?](https://photos.app.goo.gl/4NUBcGd9x9khsRkU6)
 
 ### Q&A
 
