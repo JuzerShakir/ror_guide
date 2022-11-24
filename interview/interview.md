@@ -34,8 +34,6 @@
 
 - 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk)
 
-- Update your resume.
-
 - Revise all the built-in methods for [String](https://ruby-doc.org/3.1.2/String.html), [Array](https://ruby-doc.org/3.1.2/Array.html), [Hash](https://ruby-doc.org/3.1.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.1.2/Enumerable.html) Classes and Module respectively.
 
 - Revise all the useful shortcuts of VS-Code & your terminal.
