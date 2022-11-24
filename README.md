@@ -6,6 +6,7 @@
 - 🔖 means its a link to a website.
 - 🙋 means its a link to an answer on stack-overflow website.
 - ⭐ Important topics
+- 🖼️ means its Picture or a slide of pictures
 
 # Table of Contents
 
@@ -287,6 +288,8 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 ---
 
 ## Guide to better programmer
+
+- 🖼️ [How to learn to code](https://photos.app.goo.gl/paoj7jRwEjyomaSf9)
 
 - 📃 [5 Things I Learned After Two Years as a Software Engineer at Microsoft](https://betterprogramming.pub/5-things-i-learned-after-two-years-as-a-software-engineer-at-microsoft-65e7124651c7)
   - Doing research to find the root cause of the problem and find the most efficient solution.
