@@ -10,9 +10,9 @@
 
 # Table of Contents
 
-- [Pre Interview Motivation](#pre-interview-motivation)
-- [Pre Interview](#pre-interview)
-- [Interview](#interview)
+- [Interview Motivation](#interview-motivation)
+- [Preparations](#preparations)
+- [At Interview](#at-interview)
   - [Introduce Yourself](#introduce-yourself)
   - [Technical Interview](#technical-interview)
   - [Q&A](#qa)
@@ -25,13 +25,13 @@
 
 ---
 
-## Pre Interview Motivation
+## Interview Motivation
 
 - 🎥 [A Motivation Playlist](https://youtube.com/playlist?list=PL0ANbWdKRcgqBojON5gOp2JnWs4Hk7stw)
 
 ---
 
-## Pre Interview
+## Preparations
 
 - 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Interview
+## At Interview
 
 ### Introduce Yourself
 
