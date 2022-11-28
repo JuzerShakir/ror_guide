@@ -212,7 +212,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 ## Extended Modules
 
-- 🔖📃 Comparable 👉 [Official](https://ruby-doc.org/3.1.2/Comparable.html) & [Explanation](https://medium.com/kode-art/everything-is-comparable-in-ruby-cf9ab5e8252f)
+- 🔖📃 Comparable 👉 [Official Doc](https://ruby-doc.org/3.1.2/Comparable.html) & [Explanation](https://medium.com/kode-art/everything-is-comparable-in-ruby-cf9ab5e8252f)
 - 🔖 [Shellwords](https://ruby-doc.org/3.1.2/stdlibs/shellwords/Shellwords.html)
 - 🔖 [Math](https://ruby-doc.org/3.1.2/Math.html)
 - 🔖 [English](https://ruby-doc.org/3.1.2/stdlibs/English/English.html)
