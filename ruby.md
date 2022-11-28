@@ -135,9 +135,9 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
   - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Array.html)
   - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2015/05/ruby-arrays/)
+  - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
   - 📃 [Looping array](https://launchschool.com/books/ruby/read/loops_iterators)
   - 📃 [CheatSheet](https://medium.com/itnext/a-ruby-cheatsheet-for-arrays-c8e5275155b5)
-  - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
 
   ### Hash Class
 
@@ -174,7 +174,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
   ### Struct Class
 
   - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Struct.html)
-  - 🔖 [Explanation](https://johansenja.medium.com/star-struct-ruby-structs-explained-7231c813444b)
+  - 📃 [Explanation](https://johansenja.medium.com/star-struct-ruby-structs-explained-7231c813444b)
 
   ### Nil Class
 
