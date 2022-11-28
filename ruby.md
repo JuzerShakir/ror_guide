@@ -65,12 +65,6 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 ---
 
-## Courses
-
-- 💰 🎥 [Ruby Blocks & Iterators](https://pragmaticstudio.com/ruby-blocks) by Pragmatic Studio.
-
----
-
 ## RVM
 
 - 📓 How to navigate through [RVM](https://github.com/rvm/rvm)
@@ -78,6 +72,12 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 📃 All the ruby versions [available to install](https://www.ruby-lang.org/en/downloads/releases/) through RVM.
 
 - 🎥 [Switching ruby versions](https://youtu.be/pkdhgQ1t6ag?t=312) automatically when navigating to different folders.
+
+---
+
+## Courses
+
+- 💰 🎥 [Ruby Blocks & Iterators](https://pragmaticstudio.com/ruby-blocks) by Pragmatic Studio.
 
 ---
 
