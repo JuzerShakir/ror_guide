@@ -131,13 +131,10 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
 - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-string-methods/)
 - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
-- 📃 [gsub method](https://www.rubyguides.com/2019/07/ruby-gsub-method/)
-- 📃 [Magic Comments](https://medium.com/rubycademy/magic-comments-in-ruby-81d45ff92e34)
 
 ### Symbol Class
 
 - 🔖 [Official](https://ruby-doc.org/3.1.2/Symbol.html)
-- 📃 [Mortal & Immortal Symbols](https://medium.com/rubycademy/mortal-and-immortal-symbols-in-ruby-35ae4d29248a)
 
 ### Regex
 
@@ -235,6 +232,9 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 📃 [Ancestor Chain & Global Symbols](https://medium.com/rubycademy/symbol-in-ruby-daca5abd4ab2)
 - 📃 [Understanding Object id](https://levelup.gitconnected.com/understanding-the-object-id-method-in-ruby-f61bb3888113)
 - 🎥 [GoRails Explanation](https://youtu.be/5XaqGZq5r2M)
+- 📃 [gsub method](https://www.rubyguides.com/2019/07/ruby-gsub-method/)
+- 📃 [Magic Comments](https://medium.com/rubycademy/magic-comments-in-ruby-81d45ff92e34)
+- 📃 [Mortal & Immortal Symbols](https://medium.com/rubycademy/mortal-and-immortal-symbols-in-ruby-35ae4d29248a)
 
 ### Arrays & Hashes
 
