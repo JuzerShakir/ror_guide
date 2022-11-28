@@ -14,6 +14,7 @@
 - [History](#history)
 - [Installation](#installation)
 - [RVM](#rvm)
+- [Courses](#courses)
 - [Ruby Docs](#ruby-docs)
   - ⭐ [Numeric](#numeric-class)
   - ⭐ [String](#string-class)
@@ -76,6 +77,12 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 ### RubyGems
 
 - 🔖 [Install or update](https://rubygems.org/pages/download) to the latest version.
+
+---
+
+## Courses
+
+- 💰 🎥 [Ruby Blocks & Iterators](https://pragmaticstudio.com/ruby-blocks) by Pragmatic Studio.
 
 ---
 
