@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 
 - [What is Ruby?](#what-is-ruby)
 - [History](#history)
