@@ -5,32 +5,12 @@
 - [Installation](#installation)
 - [RVM](#rvm)
 - [Courses](#courses)
-- [Ruby Docs](#ruby-docs)
-  - ⭐ [Numeric](#numeric-class)
-  - ⭐ [String](#string-class)
-  - [Symbol](#symbol-class)
-  - [Regex](#regex)
-  - ⭐ [Array](#array-class)
-  - ⭐ [Hash](#hash-class)
-  - ⭐ [Enumerable](#enumerable-module)
-  - [Enumerator](#enumerator-class)
-  - [Range](#range-class)
-  - [Set](#set-class)
-  - [Time](#time-class)
-  - [Struct](#struct-class)
-  - [Nil](#nil-class)
+- ⭐ [Becoming Rubyist](#becoming-rubyist)
+- [Meta Programming](#meta-programming)
 - [Gems](#gems)
 - [Extended Modules](#extended-modules)
-- ⭐ [Becoming Rubyist](#becoming-rubyist)
-  - [String & Symbols](#strings-symbols)
-  - [Arrays & Hashes](#arrays-hashes)
-  - [Classes](#classes)
-  - [Modules](#modules)
-  - [Enumerable Module Methods](#enumerable-module-methods)
-  - [Scopes](#scopes)
-  - ⭐ [Quick Refresher](#quick-refresher)
-- [Meta Programming](#meta-programming)
 - [Misc](#misc)
+- ⭐ [Quick Refresher](#quick-refresher)
 - ⭐ [Guide to Better Programmer](#guide-to-better-programmer)
 
 ---
@@ -81,44 +61,128 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 ---
 
-## Ruby Docs
+## Becoming Rubyist
 
 - 🔖 [Official Ruby Doc](https://ruby-doc.org/)
 - 🔖 [Latest Ruby Release Docs](https://ruby-doc.org/3.1.2/) _(3.1.2)_
 
-  ### Numeric Class
+- 📃 [Variables](https://juzer-shakir.medium.com/variables-in-ruby-dd56fdc5c9a1) & [Dynamic Variables](https://rosettacode.org/wiki/Dynamic_variable_names#Ruby)
+- 📃 [Constants](https://juzer-shakir.medium.com/constants-in-ruby-956c66883f28)
+- 📃 [Operators in Ruby](https://www.tutorialspoint.com/ruby/ruby_operators.htm)
+- 📃 [Block, Proc & Lambda](https://juzer-shakir.medium.com/block-proc-lambda-in-ruby-4610fd725016)
+- 📃 🎥 [Master Ruby Block Syntax](https://pragmaticstudio.com/tutorials/ruby-block-syntax) - _(10 mins)_
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Numeric.html)
-  - 🔖 [Ruby Guides](https://www.rubyguides.com/2016/07/numbers-in-ruby/)
-  - 📃 [Numeric Types: do's & do not's](https://medium.com/@irio/ruby-numeric-types-dos-and-do-not-s-5836250dbc58)
+  ### Built-in Classes & Modules
 
-    #### Integer
+  - 📃 [Class hierarchy](https://medium.com/rubycademy/ruby-object-model-part-1-4d06fa486bec)
 
-    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Integer.html)
+    #### Numeric Class
 
-    #### Float
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Numeric.html)
+    - 🔖 [Ruby Guides](https://www.rubyguides.com/2016/07/numbers-in-ruby/)
+    - 📃 [Numeric Types: do's & do not's](https://medium.com/@irio/ruby-numeric-types-dos-and-do-not-s-5836250dbc58)
 
-    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Float.html)
-    - 🔖 [round method](https://apidock.com/ruby/Float/round)
+      ##### Integer
 
-    #### Rational
+      - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Integer.html)
 
-    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Rational.html)
+      ##### Float
 
-    #### Complex
+      - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Float.html)
+      - 🔖 [round method](https://apidock.com/ruby/Float/round)
 
-    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Complex.html)
+      ##### Rational
 
-  ### String Class
+      - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Rational.html)
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/String.html)
-  - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
-  - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-string-methods/)
-  - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
+      ##### Complex
 
-  ### Symbol Class
+      - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Complex.html)
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Symbol.html)
+    #### String Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/String.html)
+    - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
+    - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-string-methods/)
+    - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
+    - 📃 [gsub method](https://www.rubyguides.com/2019/07/ruby-gsub-method/)
+
+    #### Symbol Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Symbol.html)
+
+    #### Array Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Array.html)
+    - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
+    - 🔖 [Ruby Guides](https://www.rubyguides.com/2015/05/ruby-arrays/)
+    - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
+    - 📃 [Looping array](https://launchschool.com/books/ruby/read/loops_iterators)
+    - 📃 [CheatSheet](https://medium.com/itnext/a-ruby-cheatsheet-for-arrays-c8e5275155b5)
+
+    #### Hash Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Hash.html)
+    - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-hashes/cheatsheet)
+    - 🔖 [Ruby Guides](https://www.rubyguides.com/2020/05/ruby-hash-methods/)
+    - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
+    - 📃 [sort_by method](https://medium.com/@florenceliang/some-notes-about-using-hash-sort-by-in-ruby-f4b3a700fc33)
+    - 📃 [Storing Math Operators](https://betterprogramming.pub/ruby-storing-math-operators-in-hashes-322026169ab4)
+
+    #### Enumerator Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Enumerator.html)
+    - 📃 [Explanation](https://juzer-shakir.medium.com/enumerator-class-in-ruby-6ef8c0d9558)
+
+    #### Enumerable Module
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Enumerable.html)
+    - 📃 [Explanation](https://juzer-shakir.medium.com/enumerable-module-in-ruby-7cb0e42d4b3f)
+
+    #### Range Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Range.html)
+
+    #### Set Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Time.html)
+
+    #### Time Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Time.html)
+    - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-dates/cheatsheet)
+
+    #### Struct Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Struct.html)
+    - 📃 [Explanation](https://johansenja.medium.com/star-struct-ruby-structs-explained-7231c813444b)
+
+    #### Nil Class
+
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/NilClass.html)
+    - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-nil/)
+
+  ### Classes
+
+  - 📃 [Types of methods, Constants, Nesting Classes, Inheritance](https://juzer-shakir.medium.com/class-and-its-different-methods-in-ruby-ea8e919c87a4)
+  - 📃 [Accessors](https://juzer-shakir.medium.com/accessor-in-ruby-1fbe2d40609a)
+  - 📃 [Private & Protected Methods](https://tadhao.medium.com/private-vs-protected-in-ruby-3ae230cc9f37)
+  - 📃 [_'super'_ keyword & inheritance explained in deep](https://medium.com/geekculture/inheritance-in-ruby-understanding-the-super-keyword-17f66d130107)
+  - 📃 _'self'_ & how to use it 👉 [first](https://www.rubyguides.com/2020/04/self-in-ruby/) & [second](https://www.honeybadger.io/blog/ruby-self-cheat-sheet/)
+  - 📃 [Class / Singleton Methods, Singleton Class & Instance Eval](https://juzer-shakir.medium.com/class-or-singleton-methods-in-ruby-fe799f9388a1)
+  - 📃 [Understanding Ruby Method Lookup](https://www.honeybadger.io/blog/ruby-method-lookup/)
+
+  ### Modules
+
+  - 📃 [Defining, Nested Modules, Constants, Classes, Mixin](https://medium.com/codex/modules-in-ruby-72263d88b9af)
+  - 📃 [Include vs Prepend vs Extend](https://medium.com/@leo_hetsch/ruby-modules-include-vs-prepend-vs-extend-f09837a5b073)
+
+    #### Enumerable Module Methods
+
+    - 📃 🎥 [Map, Reduce, and Partition](https://pragmaticstudio.com/tutorials/ruby-partition-map-reduce) - _(18 mins)_
+    - 📃 [each_with_object method](https://medium.com/@leizl.samano/how-to-use-each-with-object-in-ruby-dccca07bfa18)
+    - 📃 [find_all vs select](https://medium.com/@elizabethkosowski/ruby-find-all-vs-select-whats-the-deal-d0e2c8e7c5cb)
+    - 📃 [Iterators](https://betterprogramming.pub/6-advanced-ruby-loops-13695c20d012)
 
   ### Regex
 
@@ -130,56 +194,34 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
   - 📃 [MatchData Class](https://www.geeksforgeeks.org/ruby-matchdata-class/)
   - 🔖 [English to Regex](https://www.autoregex.xyz/home/)
 
-  ### Array Class
+  ### Strings & Symbols
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Array.html)
-  - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
-  - 🔖 [Ruby Guides](https://www.rubyguides.com/2015/05/ruby-arrays/)
-  - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
-  - 📃 [Looping array](https://launchschool.com/books/ruby/read/loops_iterators)
-  - 📃 [CheatSheet](https://medium.com/itnext/a-ruby-cheatsheet-for-arrays-c8e5275155b5)
+  - 📃 [Declaration, Mutability, Object id](https://juzer-shakir.medium.com/string-symbol-in-ruby-f8489e5fed42)
+  - 📃 [Ancestor Chain & Global Symbols](https://medium.com/rubycademy/symbol-in-ruby-daca5abd4ab2)
+  - 📃 [Understanding Object id](https://levelup.gitconnected.com/understanding-the-object-id-method-in-ruby-f61bb3888113)
+  - 🎥 [GoRails Explanation](https://youtu.be/5XaqGZq5r2M)
+  - 📃 [Magic Comments](https://medium.com/rubycademy/magic-comments-in-ruby-81d45ff92e34)
+  - 📃 [Mortal & Immortal Symbols](https://medium.com/rubycademy/mortal-and-immortal-symbols-in-ruby-35ae4d29248a)
 
-  ### Hash Class
+  ### Arrays & Hashes
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Hash.html)
-  - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-hashes/cheatsheet)
-  - 🔖 [Ruby Guides](https://www.rubyguides.com/2020/05/ruby-hash-methods/)
-  - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
-  - 📃 [sort_by method](https://medium.com/@florenceliang/some-notes-about-using-hash-sort-by-in-ruby-f4b3a700fc33)
-  - 📃 [Storing Math Operators](https://betterprogramming.pub/ruby-storing-math-operators-in-hashes-322026169ab4)
+  - 📃 [Splat Operator](https://betterprogramming.pub/single-and-double-splat-operators-in-ruby-55dbe771ace6)
 
-  ### Enumerable Module
+  ### Scopes
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Enumerable.html)
-  - 📃 [Explanation](https://juzer-shakir.medium.com/enumerable-module-in-ruby-7cb0e42d4b3f)
+  **3 keywords that create new scopes** 👉 _`def`_, _`class`_ & _`module`_
 
-  ### Enumerator Class
+  - 🎥 [how to use blocks and bindings in Ruby to pass local variables across different scopes](https://youtu.be/FcT5nbqQH4Q) and [this is where](https://youtu.be/ogAohyQOcnE) it is used in Rails.
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Enumerator.html)
-  - 📃 [Explanation](https://juzer-shakir.medium.com/enumerator-class-in-ruby-6ef8c0d9558)
+---
 
-  ### Range Class
+## Meta Programming
 
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Range.html)
-
-  ### Set Class
-
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Time.html)
-
-  ### Time Class
-
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Time.html)
-  - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-dates/cheatsheet)
-
-  ### Struct Class
-
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Struct.html)
-  - 📃 [Explanation](https://johansenja.medium.com/star-struct-ruby-structs-explained-7231c813444b)
-
-  ### Nil Class
-
-  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/NilClass.html)
-  - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-nil/)
+1. 📃 [Basics: send, define_method, method_missing](https://medium.com/swlh/metaprogramming-in-ruby-1b69b1b54202)
+2. 🎥 [Covering the basics: Hosted by a GitHub Engineer](https://youtu.be/7RD8_KcJ9S8)
+3. 📃 [Meta-Classes, class eval & instance eval](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
+4. 📃 [respond_to_missing?](https://thoughtbot.com/blog/always-define-respond-to-missing-when-overriding)
+5. 📃 [Creating DSL](https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide)
 
 ---
 
@@ -197,73 +239,6 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 🔖 [Shellwords](https://ruby-doc.org/3.1.2/stdlibs/shellwords/Shellwords.html)
 - 🔖 [Math](https://ruby-doc.org/3.1.2/Math.html)
 - 🔖 [English](https://ruby-doc.org/3.1.2/stdlibs/English/English.html)
-
----
-
-## Becoming Rubyist
-
-- 📃 [Variables](https://juzer-shakir.medium.com/variables-in-ruby-dd56fdc5c9a1) & [Dynamic Variables](https://rosettacode.org/wiki/Dynamic_variable_names#Ruby)
-- 📃 [Constants](https://juzer-shakir.medium.com/constants-in-ruby-956c66883f28)
-- 📃 [Operators in Ruby](https://www.tutorialspoint.com/ruby/ruby_operators.htm)
-- 📃 [Block, Proc & Lambda](https://juzer-shakir.medium.com/block-proc-lambda-in-ruby-4610fd725016)
-- 📃 🎥 [Master Ruby Block Syntax](https://pragmaticstudio.com/tutorials/ruby-block-syntax) - _(10 mins)_
-
-  ### Strings & Symbols
-
-  - 📃 [Declaration, Mutability, Object id](https://juzer-shakir.medium.com/string-symbol-in-ruby-f8489e5fed42)
-  - 📃 [Ancestor Chain & Global Symbols](https://medium.com/rubycademy/symbol-in-ruby-daca5abd4ab2)
-  - 📃 [Understanding Object id](https://levelup.gitconnected.com/understanding-the-object-id-method-in-ruby-f61bb3888113)
-  - 🎥 [GoRails Explanation](https://youtu.be/5XaqGZq5r2M)
-  - 📃 [gsub method](https://www.rubyguides.com/2019/07/ruby-gsub-method/)
-  - 📃 [Magic Comments](https://medium.com/rubycademy/magic-comments-in-ruby-81d45ff92e34)
-  - 📃 [Mortal & Immortal Symbols](https://medium.com/rubycademy/mortal-and-immortal-symbols-in-ruby-35ae4d29248a)
-
-  ### Arrays & Hashes
-
-  - 📃 [Splat Operator](https://betterprogramming.pub/single-and-double-splat-operators-in-ruby-55dbe771ace6)
-
-  ### Classes
-
-  - 📃 [Types of methods, Constants, Nesting Classes, Inheritance](https://juzer-shakir.medium.com/class-and-its-different-methods-in-ruby-ea8e919c87a4)
-  - 📃 [Accessors](https://juzer-shakir.medium.com/accessor-in-ruby-1fbe2d40609a)
-  - 📃 [Private & Protected Methods](https://tadhao.medium.com/private-vs-protected-in-ruby-3ae230cc9f37)
-  - 📃 [_'super'_ keyword & inheritance explained in deep](https://medium.com/geekculture/inheritance-in-ruby-understanding-the-super-keyword-17f66d130107)
-  - 📃 _'self'_ & how to use it 👉 [first](https://www.rubyguides.com/2020/04/self-in-ruby/) & [second](https://www.honeybadger.io/blog/ruby-self-cheat-sheet/)
-  - 📃 [Class / Singleton Methods, Singleton Class & Instance Eval](https://juzer-shakir.medium.com/class-or-singleton-methods-in-ruby-fe799f9388a1)
-  - 📃 [Understanding Ruby Method Lookup](https://www.honeybadger.io/blog/ruby-method-lookup/)
-  - 📃 [Class hierarchy](https://medium.com/rubycademy/ruby-object-model-part-1-4d06fa486bec)
-
-  ### Modules
-
-  - 📃 [Defining, Nested Modules, Constants, Classes, Mixin](https://medium.com/codex/modules-in-ruby-72263d88b9af)
-  - 📃 [Include vs Prepend vs Extend](https://medium.com/@leo_hetsch/ruby-modules-include-vs-prepend-vs-extend-f09837a5b073)
-
-  ### Enumerable Module Methods
-
-  - 📃 🎥 [Map, Reduce, and Partition](https://pragmaticstudio.com/tutorials/ruby-partition-map-reduce) - _(18 mins)_
-  - 📃 [each_with_object method](https://medium.com/@leizl.samano/how-to-use-each-with-object-in-ruby-dccca07bfa18)
-  - 📃 [find_all vs select](https://medium.com/@elizabethkosowski/ruby-find-all-vs-select-whats-the-deal-d0e2c8e7c5cb)
-  - 📃 [Iterators](https://betterprogramming.pub/6-advanced-ruby-loops-13695c20d012)
-
-  ### Scopes
-
-  **3 keywords that create new scopes** 👉 _`def`_, _`class`_ & _`module`_
-
-  - 🎥 [how to use blocks and bindings in Ruby to pass local variables across different scopes](https://youtu.be/FcT5nbqQH4Q) and [this is where](https://youtu.be/ogAohyQOcnE) it is used in Rails.
-
-  ### Quick Refresher
-
-  - 🎥 [A Deep Dive into the Ruby Object Model](https://youtu.be/by5fFOBhtPQ) _(Objects, Classes & Modules)_
-
----
-
-## Meta Programming
-
-1. 📃 [Basics: send, define_method, method_missing](https://medium.com/swlh/metaprogramming-in-ruby-1b69b1b54202)
-2. 🎥 [Covering the basics: Hosted by a GitHub Engineer](https://youtu.be/7RD8_KcJ9S8)
-3. 📃 [Meta-Classes, class eval & instance eval](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
-4. 📃 [respond_to_missing?](https://thoughtbot.com/blog/always-define-respond-to-missing-when-overriding)
-5. 📃 [Creating DSL](https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide)
 
 ---
 
@@ -288,6 +263,12 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
   - 📃 [Understanding Require vs. Require_relative vs. Require_all ](https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6)
 
   - 🎥 [Dynamically load files with Dir.glob](https://youtu.be/TSQvgatIkT0) - _(8 mins)_
+
+---
+
+## Quick Refresher
+
+- 🎥 [A Deep Dive into the Ruby Object Model](https://youtu.be/by5fFOBhtPQ) _(Objects, Classes & Modules)_
 
 ---
 
