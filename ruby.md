@@ -289,14 +289,24 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 ## Misc
 
 - 📃 Differences between puts, print & p 👉 [article](https://www.rubyguides.com/2018/10/puts-vs-print/) or [video](https://youtu.be/9jSwVvyjAKE)
+
 - 📃 [Differences between eql?, equal?, ==, and === ](https://dennis-cho.medium.com/what-are-the-differences-between-eql-equal-and-in-ruby-436f2a48ff94)
-- 📃 [Understanding Require vs. Require_relative vs. Require_all ](https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6)
+
 - 📃 [Rescue Exceptions](https://stackify.com/rescue-exceptions-ruby/)
-- 🎥 [Environment Variables](https://youtu.be/O-aDLsuNTRY)
+
 - 📃 [Stop Program Running Early](https://www.rubyguides.com/2019/03/ruby-exit/)
+
 - 📃 [Generate Random Numbers](https://blog.appsignal.com/2018/07/31/generating-random-numbers-in-ruby.html)
+
 - 📃 [Benchmarking](https://medium.com/swlh/benchmarking-in-ruby-86a6c28c1e97)
+
 - 🎥 Creating Gem [P1](https://youtu.be/wu2zoy63DeU) & [P2](https://youtu.be/_RPVUwBm6U8)
+
+### Loading Files
+
+- 📃 [Understanding Require vs. Require_relative vs. Require_all ](https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6)
+
+- 🎥 [Dynamically load files with Dir.glob](https://youtu.be/TSQvgatIkT0) - _(8 mins)_
 
 ---
 
