@@ -43,7 +43,6 @@
   - [Spree](#spree)
   - [Geocoder](#geocoder)
   - [Rename](#rename)
-- [Hosting](#hosting)
 - [Misc](#misc)
 
 ---
@@ -1019,10 +1018,6 @@
 - 🔖 [Download the gem](https://rubygems.org/gems/rename)
 
 - 📓 [GitHub repo](https://github.com/morshedalam/rename)
-
----
-
-# Hosting
 
 ---
 
