@@ -1,6 +1,6 @@
-# A guide to becoming a ROR Developer
+# Ruby On Rails ultimate guide
 
-_Ensures that the best resources are available to provide all of the knowledge for the relevant subjects._
+_Ensures that the best resources are available to provide all of the knowledge for the relevant subjects. A one stop-guide to ROR!_
 
 ## Guides
 
