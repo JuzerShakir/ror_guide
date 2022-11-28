@@ -225,6 +225,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 - 📃 [Constants](https://juzer-shakir.medium.com/constants-in-ruby-956c66883f28)
 - 📃 [Operators in Ruby](https://www.tutorialspoint.com/ruby/ruby_operators.htm)
 - 📃 [Block, Proc & Lambda](https://juzer-shakir.medium.com/block-proc-lambda-in-ruby-4610fd725016)
+- 📃 🎥 [Master Ruby Block Syntax](https://pragmaticstudio.com/tutorials/ruby-block-syntax) - _(10 mins)_
 
 ### Strings & Symbols
 
