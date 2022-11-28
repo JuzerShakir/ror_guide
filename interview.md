@@ -1,13 +1,3 @@
-# Icon Indexes
-
-- 📓 means its a link to GitHub Repo.
-- 📃 means its a link to an article.
-- 🎥 means its a link to a video.
-- 🔖 means its a link to a website.
-- 🙋 means its a link to an answer on stack-overflow website.
-- ⭐ Important topics
-- 🖼️ means its Picture or a slide of pictures
-
 # Table of Contents
 
 - [Interview Motivation](#interview-motivation)
