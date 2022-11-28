@@ -83,46 +83,46 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 ## Ruby Docs
 
-- 🔖 [Official Ruby Documentation](https://ruby-doc.org/)
+- 🔖 [Official Ruby Doc](https://ruby-doc.org/)
 - 🔖 [Latest Ruby Release Docs](https://ruby-doc.org/3.1.2/) _(3.1.2)_
 
   ### Numeric Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Numeric.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Numeric.html)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2016/07/numbers-in-ruby/)
   - 📃 [Numeric Types: do's & do not's](https://medium.com/@irio/ruby-numeric-types-dos-and-do-not-s-5836250dbc58)
 
     #### Integer
 
-    - 🔖 [Official](https://ruby-doc.org/3.1.2/Integer.html)
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Integer.html)
 
     #### Float
 
-    - 🔖 [Official](https://ruby-doc.org/3.1.2/Float.html)
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Float.html)
     - 🔖 [round method](https://apidock.com/ruby/Float/round)
 
     #### Rational
 
-    - 🔖 [Official](https://ruby-doc.org/3.1.2/Rational.html)
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Rational.html)
 
     #### Complex
 
-    - 🔖 [Official](https://ruby-doc.org/3.1.2/Complex.html)
+    - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Complex.html)
 
   ### String Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/String.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/String.html)
   - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-string-methods/)
   - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
 
   ### Symbol Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Symbol.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Symbol.html)
 
   ### Regex
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/regexp_rdoc.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/regexp_rdoc.html)
   - 🔖 [Rubular](https://rubular.com/)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2015/06/ruby-regex/)
   - 📃 [Quick Guide](https://gabrieldemes.medium.com/a-quick-guide-to-regex-in-ruby-8540885057d6)
@@ -132,7 +132,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
   ### Array Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Array.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Array.html)
   - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2015/05/ruby-arrays/)
   - 📃 [Looping array](https://launchschool.com/books/ruby/read/loops_iterators)
@@ -141,7 +141,7 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
   ### Hash Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Hash.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Hash.html)
   - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-hashes/cheatsheet)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2020/05/ruby-hash-methods/)
   - 🔖 [Methods - Notion](https://juzershakir.notion.site/3417b9f5c6f840c2bc3d7a00cb439aa7?v=fcda0da5be484caf912202ffd4c3c144)
@@ -150,35 +150,35 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
   ### Enumerable Module
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Enumerable.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Enumerable.html)
   - 📃 [Explanation](https://juzer-shakir.medium.com/enumerable-module-in-ruby-7cb0e42d4b3f)
 
   ### Enumerator Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Enumerator.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Enumerator.html)
   - 📃 [Explanation](https://juzer-shakir.medium.com/enumerator-class-in-ruby-6ef8c0d9558)
 
   ### Range Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Range.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Range.html)
 
   ### Set Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Time.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Time.html)
 
   ### Time Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Time.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Time.html)
   - 🔖 [ShortcutFoo](https://www.shortcutfoo.com/app/dojos/ruby-dates/cheatsheet)
 
   ### Struct Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/Struct.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/Struct.html)
   - 🔖 [Explanation](https://johansenja.medium.com/star-struct-ruby-structs-explained-7231c813444b)
 
   ### Nil Class
 
-  - 🔖 [Official](https://ruby-doc.org/3.1.2/NilClass.html)
+  - 🔖 [Official Ruby Doc](https://ruby-doc.org/3.1.2/NilClass.html)
   - 🔖 [Ruby Guides](https://www.rubyguides.com/2018/01/ruby-nil/)
 
 ---
