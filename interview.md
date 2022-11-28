@@ -145,5 +145,5 @@
   - Go Over the Questions That Didn’t Go So Well During the Interview.
   - Identify Points of Failure.
   - Recall Anything That the Interviewer May Have Taught You.
-  - Understand What This Process Has Taught You About the Company Itself
-  - Solve This Challenge With Another Language
+  - Understand What This Process Has Taught You About the Company Itself.
+  - Solve This Challenge With Another Language.
