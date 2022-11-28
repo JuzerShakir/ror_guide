@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [What is Ruby](#what-is-ruby)
+- [What is Ruby?](#what-is-ruby)
 - [History](#history)
 - [Installation](#installation)
 - [RVM](#rvm)
