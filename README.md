@@ -2,7 +2,7 @@
 
 _Ensures that the best resources are available to provide all of the knowledge for the relevant subjects._
 
-### Guides
+## Guides
 
 - [Ruby](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/ruby.md)
 
@@ -30,7 +30,7 @@ Following symbols in these documentations means the following
 
 ---
 
-### Contributions
+## Contributions
 
 Have a topic that is not covered in these articles? Do you have an excellent resource explaining it? OR Do you have a much better resource to an existing topic? If yes?, then Excellent!
 
