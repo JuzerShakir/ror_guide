@@ -29,6 +29,8 @@
 
 - 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(12 mins)_
 
+---
+
 ## Preparations
 
 - 🎥 [A complete overview of the preparations](https://youtu.be/nZNfSQKC-Yk) - _(28mins)_
