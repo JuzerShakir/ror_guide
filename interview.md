@@ -3,7 +3,6 @@
 - [Interview Motivation](#interview-motivation)
 - [Preparations](#preparations)
 - [At Interview](#at-interview)
-  - [Introduce Yourself](#introduce-yourself)
   - [Technical Interview](#technical-interview)
   - [Q&A](#qa)
   - [Do's and Don'ts](#dos-and-donts)
@@ -59,75 +58,74 @@
 
 ## At Interview
 
-### Introduce Yourself
-
 - How to Introduce yourself?
+
   - 🎥 [FIrst way](https://youtu.be/N1Ak5RSAFww) - _(6 mins)_
   - 🎥 [Second way](https://youtu.be/TiVq6ADO7XU) - _(8 mins)_
 
-### Technical Interview
+  ### Technical Interview
 
-- 📃 [Acing the Coding Interview Even If You Can’t Solve the Problem](https://betterprogramming.pub/acing-the-coding-interview-even-if-you-cant-solve-the-problem-91a950947226) - _(6 mins)_
+  - 📃 [Acing the Coding Interview Even If You Can’t Solve the Problem](https://betterprogramming.pub/acing-the-coding-interview-even-if-you-cant-solve-the-problem-91a950947226) - _(6 mins)_
 
-  - Ask for clarification.
-  - Explain your thought process.
-  - Identify Pain Points.
+    - Ask for clarification.
+    - Explain your thought process.
+    - Identify Pain Points.
 
-- 📃 🎥 **The Step-by-Step Guide to Answering a Technical Question** 👉 [Article](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2) - _(10 mins)_ or [Video](https://youtu.be/DIR_rxusO8Q) - _(15 mins)_
+  - 📃 🎥 **The Step-by-Step Guide to Answering a Technical Question** 👉 [Article](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2) - _(10 mins)_ or [Video](https://youtu.be/DIR_rxusO8Q) - _(15 mins)_
 
-  - **REACTO**.
-  - **R**epeat the Problem and Give **E**xamples.
-  - Describe Your **A**pproach
-  - Write Your **C**ode.
-  - **T**est the Code.
-  - Optimization.
+    - **REACTO**.
+    - **R**epeat the Problem and Give **E**xamples.
+    - Describe Your **A**pproach
+    - Write Your **C**ode.
+    - **T**est the Code.
+    - Optimization.
 
-- 🖼️ [How to solve a problem?](https://photos.app.goo.gl/4NUBcGd9x9khsRkU6)
+  - 🖼️ [How to solve a problem?](https://photos.app.goo.gl/4NUBcGd9x9khsRkU6)
 
-### Q&A
+  ### Q&A
 
-- 🎥 _(Shorts)_ [Why we should hire you?](https://youtube.com/shorts/t2Y1TVBL3JU?feature=share)
-  OR
-  🎥 ⭐ [What are your strengths?](https://youtu.be/E5Gt2W9zKJE) - _(13 mins)_
+  - 🎥 _(Shorts)_ [Why we should hire you?](https://youtube.com/shorts/t2Y1TVBL3JU?feature=share)
+    OR
+    🎥 ⭐ [What are your strengths?](https://youtu.be/E5Gt2W9zKJE) - _(13 mins)_
 
-- 🎥 _(Shorts)_ [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
+  - 🎥 _(Shorts)_ [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
 
-- 🎥 [What is your weakness?](https://youtu.be/crJiaNQ2dv8) - _(7 mins)_
+  - 🎥 [What is your weakness?](https://youtu.be/crJiaNQ2dv8) - _(7 mins)_
 
-- 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE) - _(7 mins)_
+  - 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE) - _(7 mins)_
 
-- 🎥 [Where Do You See Yourself in 5 Years?](https://youtu.be/gGU3TunJqH0) - _(6 mins)_
+  - 🎥 [Where Do You See Yourself in 5 Years?](https://youtu.be/gGU3TunJqH0) - _(6 mins)_
 
-### Do's and Don'ts
+  ### Do's and Don'ts
 
-- 🎥 _(Shorts)_ [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
+  - 🎥 _(Shorts)_ [Why did you leave your last role?](https://youtu.be/Rz8I7RI2WWw)
 
-- 📃 [10 Unacceptable Responses That You Should Not Give](https://betterprogramming.pub/10-unacceptable-responses-that-you-should-not-give-at-a-job-interview-b6f0d78c23e3) - _(7 mins)_
-  - Team-Related Questions
-  - Skill-Related Questions
-  - Skill-Related Questions
-  - Big Picture-Related Questions
-  - Motivation-Related Questions
+  - 📃 [10 Unacceptable Responses That You Should Not Give](https://betterprogramming.pub/10-unacceptable-responses-that-you-should-not-give-at-a-job-interview-b6f0d78c23e3) - _(7 mins)_
+    - Team-Related Questions
+    - Skill-Related Questions
+    - Skill-Related Questions
+    - Big Picture-Related Questions
+    - Motivation-Related Questions
 
-### Interview the Interviewer
+  ### Interview the Interviewer
 
-- 📃 [How to Interview Your Interviewer](https://betterprogramming.pub/software-engineer-interview-interview-your-interviewer-4964257b3c4) - _(6 mins)_
+  - 📃 [How to Interview Your Interviewer](https://betterprogramming.pub/software-engineer-interview-interview-your-interviewer-4964257b3c4) - _(6 mins)_
 
-  - Culture.
-  - Tech.
-  - Deciding What Questions to Ask.
+    - Culture.
+    - Tech.
+    - Deciding What Questions to Ask.
 
-- 📃 [The 4P career evaluation system](https://alexewerlof.medium.com/the-four-p-s-of-career-search-6380a61cc961) - _(9 mins)_
-  - People.
-  - Product/Project.
-  - Pay/Package.
-  - Place
+  - 📃 [The 4P career evaluation system](https://alexewerlof.medium.com/the-four-p-s-of-career-search-6380a61cc961) - _(9 mins)_
+    - People.
+    - Product/Project.
+    - Pay/Package.
+    - Place
 
-### Salary Negotiation
+  ### Salary Negotiation
 
-- 📃 [Salary Negotiation Strategy](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd) - _(5 mins)_
-  - Be transparent about what you make.
-  - Ask for a fair pay.
+  - 📃 [Salary Negotiation Strategy](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd) - _(5 mins)_
+    - Be transparent about what you make.
+    - Ask for a fair pay.
 
 ---
 
