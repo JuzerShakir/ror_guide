@@ -1,6 +1,6 @@
-# Ruby On Rails ultimate guide
+# An ultimate guide for ROR Devs
 
-_Ensures that the best resources are available to provide all of the knowledge for the relevant subjects. A one stop-guide to ROR!_
+_Providing best possible knowledge for the relevant topics._
 
 ## Guides
 
