@@ -12,21 +12,23 @@ _Providing best possible knowledge for the relevant topics._
 
 ---
 
-Following symbols in these documentations means the following
+## Emojis
 
-| Emojis | Interpretation                 |
-| :----: | ------------------------------ |
-|   🆓   | free content                   |
-|   💰   | paid content                   |
-|   📓   | GitHub Repo                    |
-|   📃   | an article                     |
-|   🎥   | a video                        |
-|   🔖   | a link to a website            |
-|   🙋   | answer on stack-overflow       |
-|   ⭐   | Important topics               |
-|   🖼️   | Picture or a slide of pictures |
-|   📧   | subscribing to newsletter      |
-|   🔘   | Bullet Points                  |
+**The emojis present in these documentations have the following interpretation to the links It's they're specified to:**
+
+| Emojis | Interpretation                   |
+| :----: | -------------------------------- |
+|   🆓   | It's a free content              |
+|   💰   | It's a paid content              |
+|   📓   | It's a GitHub Repo               |
+|   📃   | It's an article                  |
+|   🎥   | It's a video                     |
+|   🔖   | It's a link to a website         |
+|   🙋   | It's an answer on stack-overflow |
+|   ⭐   | It's an important topic          |
+|   🖼️   | Picture or a slide of pictures   |
+|   📧   | subscribe to a newsletter        |
+|   🔘   | Bullet Points                    |
 
 ---
 
