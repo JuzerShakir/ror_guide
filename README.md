@@ -30,8 +30,9 @@ Following symbols in these documentations means the following
 
 ---
 
-## Contributions
+## Contributions ✅
 
-Have a topic that is not covered in these articles? Do you have an excellent resource explaining it? OR Do you have a much better resource to an existing topic? If yes?, then Excellent!
+**Contributions are welcome.** 😀
 
-**We are open to contributions.** 😀
+- Topics that are not covered in these pages.
+- Have a much better resource to an existing topic.
