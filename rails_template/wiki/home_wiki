@@ -1,0 +1,42 @@
+Welcome to the repo_name repository wiki!
+
+## Gems
+
+The following gems were required to accomplish the tasks of this project:
+
+| **Gem Names** | **Version** |
+| :-----------: | :---------: |
+|  Postgresql   |  **1.2.3**  |
+|     Watir     |  **7.1.0**  |
+|    Sideqik    |  **6.5.6**  |
+
+---
+
+## Schema
+
+![](https://github.com/JuzerShakir/repo_name/blob/master/public/assets/schema.png)
+
+### Model Name
+
+As you can see from the above schema-snap, the `model_name` model:
+
+1. describe what type of model it is and what relationship it has with other models...
+
+| **Attribute** |                                          **Desc**                                          |
+| :-----------: | :----------------------------------------------------------------------------------------: |
+|   **attr1**   |                              Title of the movie or TV-Series                               |
+|   **attr2**   |                               Ratings of the respective show                               |
+|   **attr3**   |                                A short overview of the show                                |
+|   **attr4**   |                                  Release date of the show                                  |
+|   **attr5**   |                        Number of IMDb users who have rated the show                        |
+|   **attr6**   |        An STI attribute, a show can either be an instance of a `Movie` or `TvShow`         |
+|   **attr7**   | An UNIQUE IMDb id that starts with `tt` followed by exactly 7 or 8 digits found in the URL |
+|   **attr8**   |                                  Total runtime of a show.                                  |
+|   **attr9**   |                                  Total income of the show                                  |
+|  **attr10**   |                                  Total budget of the show                                  |
+|  **attr11**   |                    Calculated based on the values of revenue and budget                    |
+|  **attr12**   |                                      URL of the show                                       |
+
+### Relational Models
+
+describe the relationship models in detail...
