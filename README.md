@@ -40,5 +40,5 @@ _Providing best possible knowledge for the relevant topics._
 
 **Contributions are welcome.** 😀
 
-- Topics that are not covered in these pages.
-- Have a much better resource to an existing topic.
+- Topics and questions that are not covered in these pages.
+- Have a much better resource to an existing question or topic.
