@@ -4,11 +4,15 @@ _Providing best possible knowledge for the relevant topics._
 
 ## Guides
 
-- [Ruby](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/ruby.md)
+- **[Ruby](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/ruby.md)**
 
-- [Rails](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/rails.md)
+- **[Rails](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/rails.md)**
 
-- [Interview](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/interview.md)
+- **[Interview](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/interview.md)**
+
+- [README & Wiki template for Rails Project](https://github.com/JuzerShakir/ror_guide/tree/master/rails_template)
+
+<!-- - [Hosting](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/hosting.md) -->
 
 ---
 
