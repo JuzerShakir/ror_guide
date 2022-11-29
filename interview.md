@@ -28,6 +28,8 @@
 
 - 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(12 mins)_
 
+- 📃 [Publish your work, increase your luck](https://github.com/readme/guides/publishing-your-work) (Published by GitHub) - _(7 mins)_
+
 ---
 
 ## Preparations
@@ -116,10 +118,18 @@
     - Deciding What Questions to Ask.
 
   - 📃 [The 4P career evaluation system](https://alexewerlof.medium.com/the-four-p-s-of-career-search-6380a61cc961) - _(9 mins)_
+
     - People.
     - Product/Project.
     - Pay/Package.
     - Place
+
+  - 📃 [Five Questions to ask](https://github.com/readme/guides/technical-interviews) (Published by GitHub) - _(4 mins)_
+    - How will I fail?
+    - How do you incentivise your team?
+    - An example of something the team did that didn’t go well.
+    - What does the shipping look like?
+    - How much attention do you pay to reducing friction for the engineering team?
 
   ### Salary Negotiation
 
