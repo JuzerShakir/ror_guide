@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Interview Motivation](#interview-motivation)
+- [Open To Work](#open-to-work)
 - [Preparations](#preparations)
 - [At Interview](#at-interview)
   - [Technical Interview](#technical-interview)
@@ -29,6 +30,28 @@
 - 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(12 mins)_
 
 - 📃 [Publish your work, increase your luck](https://github.com/readme/guides/publishing-your-work) (Published by GitHub) - _(7 mins)_
+
+---
+
+## Open to Work
+
+- [RailsDev](https://railsdevs.com/)
+- [Go Rails](https://jobs.gorails.com/) (Job Posting)
+
+  ### LinkedIn
+
+  - [Professional LinkedIn Profile Checklist](https://docs.google.com/document/d/e/2PACX-1vRsryXtKM4HTYOujmTsGbU7JT0PSWcVq9xAQlXQEg00rLQMWplLQlxf3PYDIO0YycGduLpClN3f_RN-/pub)
+  - Share a post to your network that your open for new opportunities.
+  - [LinkedIn Job Search](https://www.linkedin.com/jobs/) (Job Posting)
+
+  ### Slack
+
+  - [Ruby On Rails Link Channel](rubyonrails-link.slack.com) (Job Posting)
+  - [Remote Indian](https://remoteindian.slack.com/)
+
+  ### Discord
+
+  - [GoRails](https://discord.com/invite/gorails)
 
 ---
 
