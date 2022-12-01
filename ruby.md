@@ -206,6 +206,8 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
   - 📃 [Singleton Methods, Singleton Class & Instance Eval](https://juzer-shakir.medium.com/class-or-singleton-methods-in-ruby-fe799f9388a1) - _(4 mins)_
 
+  - 📃 [Understanding Instance Eval](https://medium.com/rubycademy/ruby-instance-eval-a49fd4afa268) - _(2 mins)_
+
   - 📃 [Understanding Ruby Method Lookup](https://www.honeybadger.io/blog/ruby-method-lookup/) - _(7 mins)_
 
   ### Modules
