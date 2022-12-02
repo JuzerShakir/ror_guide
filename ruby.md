@@ -336,10 +336,24 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 ## Quick Refresher
 
-- 🎥 **A Deep Dive into the Ruby Object Model**
-  - [Video](https://youtu.be/by5fFOBhtPQ) - _(34 mins)_
+- **A Deep Dive into the Ruby Object Model**
+
+  - 🎥 [Video By Peter Cooper](https://youtu.be/by5fFOBhtPQ) - _(34 mins)_
+
     - Objects, Classes & Modules
-  - [Article](https://www.honeybadger.io/blog/ruby-object-model/) by Honeybadger - _(15 mins)_
+
+  - 🎥 [Video By Dave Thomas](https://youtu.be/X2sgQ38UDVY) - _(1 hr 4 mins)_
+
+    - History of OOP.
+    - Object state and behavior
+    - Self
+    - Method Calls
+    - Individual Methods
+    - Singleton Class
+    - Subclasses
+    - Inheritance
+
+  - 📃 [Article](https://www.honeybadger.io/blog/ruby-object-model/) by Honeybadger - _(15 mins)_
     - Classes and instances
     - Inheritance
     - Public, private and protected methods
