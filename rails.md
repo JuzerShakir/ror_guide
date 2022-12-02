@@ -28,6 +28,7 @@
 - [Gems](#gems)
   - [BCrypt](#bcrypt)
   - [Devise](#devise)
+  - [Authentication Zero](authentication-zero)
   - [Omniauth](#omniauth)
   - [reCAPTCHA](#recaptcha)
   - [Pagy](#pagy)
@@ -821,6 +822,14 @@
 - 📓 [Allow users to sign-up with something other email address](https://github.com/heartcombo/devise/wiki/How-To:-Allow-users-to-sign-in-with-something-other-than-their-email-address)
 
 - 📓 [How tos? - Wiki](https://github.com/heartcombo/devise/wiki/How-Tos)
+
+## Authentication Zero
+
+- 🔖 [Download the gem](https://rubygems.org/gems/authentication-zero)
+
+- 📓 [GitHub repo](https://github.com/lazaronixon/authentication-zero)
+
+- 📃 [A quick overview](https://codewithrails.com/rails-authentication) - _(10 mins)_
 
 ## Omniauth
 
