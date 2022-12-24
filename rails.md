@@ -459,6 +459,9 @@
   - renaming URLs
   - nested routes
 
+- 📃 [Guide to using nested routes](https://scoutapm.com/blog/rails-nested-routes) - _(8 mins)_
+
+
   ### Source Code
 
   - 🎥 [Part 1](http://railscasts.com/episodes/231-routing-walk-through?autoplay=true) & [Part 2](http://railscasts.com/episodes/232-routing-walk-through-part-2?autoplay=true) by RailsCasts - _(27 mins)_
