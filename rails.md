@@ -31,6 +31,7 @@
   - [Authentication Zero](authentication-zero)
   - [Omniauth](#omniauth)
   - [reCAPTCHA](#recaptcha)
+  - [Friendly ID](#friendly-id)
   - [Pagy](#pagy)
   - [Faker](#faker)
   - [Cloudinary](#cloudinary)
@@ -889,6 +890,14 @@
 - 📓 [Using with Devise](https://github.com/heartcombo/devise/wiki/How-To:-Use-Recaptcha-with-Devise)
 
 - 📓 [Using with Turbo & Stimulus](https://github.com/ambethia/recaptcha/wiki/Recaptcha-with-Turbo-and-Stimulus)
+
+## Friendly ID
+
+- 🔖 [Download the gem](https://rubygems.org/gems/friendly_id)
+
+- 📓 [GitHub repo](https://github.com/norman/friendly_id/)
+
+- 🎥 [walk-through](https://youtu.be/6orj2qU6JdA) - _(18 mins)_
 
 ## Pagy
 
