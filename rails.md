@@ -148,6 +148,8 @@
 
 - 🔖 [Rails Cheat sheet](https://devhints.io/rails)
 
+- 🔖 [Rails Hash Class](https://api.rubyonrails.org/classes/Hash.html)
+- 
 ---
 
 # Tutorials
