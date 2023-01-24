@@ -648,7 +648,9 @@
   - 🎥 [walk-through 1](https://youtu.be/nsj7nBslgnk) _(15 mins)_
 
   - 🎥 [walk-through 2](https://youtu.be/4fIuxdeQxR0) _(21 mins)_
-
+  
+  - 🎥 [Test Automation University](https://testautomationu.applitools.com/capybara-ruby/) _(Tutorial Series)_
+ 
   ## Factory Bot Rails
 
   - 📓 [GitHub repo](https://github.com/thoughtbot/factory_bot_rails)
