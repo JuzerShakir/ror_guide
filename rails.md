@@ -32,6 +32,7 @@
   - [Omniauth](#omniauth)
   - [reCAPTCHA](#recaptcha)
   - [Friendly ID](#friendly-id)
+  - [Ransack](#ransack)
   - [Pagy](#pagy)
   - [Faker](#faker)
   - [Cloudinary](#cloudinary)
