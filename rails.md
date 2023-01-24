@@ -46,6 +46,7 @@
   - [Spree](#spree)
   - [Geocoder](#geocoder)
   - [Rename](#rename)
+  - [Humanize](#humanize)
 - [Misc](#misc)
 
 ---
@@ -1054,6 +1055,14 @@
 - 🔖 [Download the gem](https://rubygems.org/gems/rename)
 
 - 📓 [GitHub repo](https://github.com/morshedalam/rename)
+
+## Humanize
+
+- 🔖 [Download the gem](https://rubygems.org/gems/humanize)
+
+- 📓 [GitHub repo](https://github.com/radar/humanize)
+
+- 📃 [Official Doc](https://www.rubydoc.info/gems/humanize/2.5.1)
 
 ---
 
