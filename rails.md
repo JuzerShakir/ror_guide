@@ -901,6 +901,16 @@
 
 - 🎥 [walk-through](https://youtu.be/6orj2qU6JdA) - _(18 mins)_
 
+## Ransack
+
+- 🔖 [Download the gem](https://rubygems.org/gems/ransack)
+
+- 📓 [GitHub repo](https://github.com/activerecord-hackery/ransack)
+
+- 🔖 [Official Doc](https://activerecord-hackery.github.io/ransack/getting-started/simple-mode/)
+
+- 🎥 [Walk-through](https://youtu.be/2u2H2lQ6Cdc) - _(36 mins)_
+
 ## Pagy
 
 - 🔖 [Download the gem](https://rubygems.org/gems/pagy)
