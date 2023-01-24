@@ -64,7 +64,10 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 ## Becoming Rubyist
 
 - 🔖 [Official Ruby Doc](https://ruby-doc.org/)
+
 - 🔖 [Latest Ruby Release Docs](https://ruby-doc.org/3.1.2/) _(3.1.2)_
+
+- 🔖 [Rubycademy](https://www.rubycademy.com/cards/ruby-block-reference)
 
 - 📃 [Variables](https://juzer-shakir.medium.com/variables-in-ruby-dd56fdc5c9a1) & [Dynamic Variables](https://rosettacode.org/wiki/Dynamic_variable_names#Ruby) - _(3 mins)_
 
