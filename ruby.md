@@ -277,6 +277,11 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
   - 🎥 [how to use blocks and bindings in Ruby to pass local variables across different scopes](https://youtu.be/FcT5nbqQH4Q) and [this is where](https://youtu.be/ogAohyQOcnE) it is used in Rails. - _(39 mins)_
 
+
+  ### Pattern Matching
+  - 🔖 [Official Ruby Doc](https://docs.ruby-lang.org/en/3.2/syntax/pattern_matching_rdoc.html)
+  
+
 ---
 
 ## Meta Programming
