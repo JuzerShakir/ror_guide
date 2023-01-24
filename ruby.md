@@ -326,6 +326,8 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 - 📃 [Differences between eql?, equal?, ==, and === ](https://dennis-cho.medium.com/what-are-the-differences-between-eql-equal-and-in-ruby-436f2a48ff94) - _(3 mins)_
 
+- 🔖 [Date/Time Formatting](https://www.foragoodstrftime.com/)
+
 - 📃 [Rescue Exceptions](https://stackify.com/rescue-exceptions-ruby/) - _(5 mins)_
 
 - 📃 [Stop Program Running Early](https://www.rubyguides.com/2019/03/ruby-exit/) - _(3 mins)_
