@@ -212,6 +212,8 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
   - 📃 [Understanding Instance Eval](https://medium.com/rubycademy/ruby-instance-eval-a49fd4afa268) - _(2 mins)_
 
   - 📃 [Understanding Ruby Method Lookup](https://www.honeybadger.io/blog/ruby-method-lookup/) - _(7 mins)_
+  
+  - 📃 [Alias in Ruby](https://medium.com/rubycademy/alias-in-ruby-bf89be245f69) - _(3 mins)_
 
   ### Modules
 
