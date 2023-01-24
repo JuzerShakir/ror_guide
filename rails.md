@@ -1071,3 +1071,5 @@
 - 🔖 [Rails Tricks Cheat sheet](https://devhints.io/rails-tricks)
 
 - 🎥 [How to interpret a Stacktrace](https://youtu.be/xwRao5OZzSU) - _(13 mins)_
+
+- 🎥 [Custom Error Pages](https://youtu.be/_laCIdQmOr4) - _(9 mins)_
