@@ -39,7 +39,7 @@
 
 - 📓 [GitHub repo](https://github.com/aasm/aasm)
 
-- 🎥 [walk-through](https://youtu.be/fBEQTbfnCYo?t=38) - _(19 mins)_
+- 🎥 [Walk-through](https://youtu.be/fBEQTbfnCYo?t=38) - _(19 mins)_
 
 ---
 
@@ -59,7 +59,7 @@
 
 - 📓 [GitHub repo](https://github.com/bcrypt-ruby/bcrypt-ruby)
 
-- 📃 [walk-through](https://medium.com/@ashleymcolletti/add-authentication-to-your-rails-app-with-bcrypt-a53917252159) - _(4 mins)_
+- 📃 [Walk-through](https://medium.com/@ashleymcolletti/add-authentication-to-your-rails-app-with-bcrypt-a53917252159) - _(4 mins)_
 
 - 📃 [Understanding Deeper](https://medium.com/codex/ruby-on-rails-bcrypt-password-protection-and-user-authentication-1010a745c00c) - _(6 mins)_
 
@@ -79,7 +79,7 @@
 
 - 📓 [GitHub repo](https://github.com/cloudinary/cloudinary_gem)
 
-- 📃 [walk-through](https://medium.com/nerd-for-tech/getting-started-with-cloudinary-in-ruby-on-rails-6-925888032395) - _(8 mins)_
+- 📃 [Walk-through](https://medium.com/nerd-for-tech/getting-started-with-cloudinary-in-ruby-on-rails-6-925888032395) - _(8 mins)_
 
 - 🔖 [Cloudinary Dashboard](https://cloudinary.com/console)
 
@@ -126,7 +126,7 @@
 
 - 📓 [GitHub repo](https://github.com/faker-ruby/faker)
 
-- 📃 [walk-through](https://medium.com/@jvolpe721/using-the-faker-gem-ff3d58ecb2c) - _(3 mins)_
+- 📃 [Walk-through](https://medium.com/@jvolpe721/using-the-faker-gem-ff3d58ecb2c) - _(3 mins)_
 
 - 📓 [All generators available](https://github.com/faker-ruby/faker/tree/main/doc/default)
 
@@ -138,7 +138,7 @@
 
 - 📓 [GitHub repo](https://github.com/norman/friendly_id/)
 
-- 🎥 [walk-through](https://youtu.be/6orj2qU6JdA) - _(18 mins)_
+- 🎥 [Walk-through](https://youtu.be/6orj2qU6JdA) - _(18 mins)_
 
 ---
 
@@ -150,9 +150,9 @@
 
 - 🔖 [Official Guides](http://www.rubygeocoder.com/)
 
-- 🎥 walk-through by [GoRails](https://youtu.be/3kwXvmH-ee0) or [RailsCasts](http://railscasts.com/episodes/273-geocoder?autoplay=true)
+- 🎥 Walk-through by [GoRails](https://youtu.be/3kwXvmH-ee0) or [RailsCasts](http://railscasts.com/episodes/273-geocoder?autoplay=true)
 
-- 📃 [walk-through](https://medium.com/@tali.scheer/ruby-geocoder-gem-9733650e9339) - _(6 mins)_
+- 📃 [Walk-through](https://medium.com/@tali.scheer/ruby-geocoder-gem-9733650e9339) - _(6 mins)_
 
 ---
 
@@ -176,7 +176,7 @@
 
   - 🔖 [Download the gem](https://rubygems.org/gems/omniauth-google-oauth2)
 
-  - 📃 [walk-through](https://medium.com/@ajayramesh/social-login-with-omniauth-and-rails-5-0-ad2bbd2a998e) - _(8 mins)_
+  - 📃 [Walk-through](https://medium.com/@ajayramesh/social-login-with-omniauth-and-rails-5-0-ad2bbd2a998e) - _(8 mins)_
 
   - 🔖 [Registering your app to Google APIs](https://console.cloud.google.com/)
 
@@ -190,13 +190,13 @@
 
   - 🔖 [Download the gem](https://rubygems.org/gems/omniauth-facebook)
 
-  - 📃 [walk-through](https://medium.com/@sergiocortessatizabal/a-simple-way-to-set-devise-with-omniauth2-0-facebook-google-617a88999d8e) - _(10 mins)_
+  - 📃 [Walk-through](https://medium.com/@sergiocortessatizabal/a-simple-way-to-set-devise-with-omniauth2-0-facebook-google-617a88999d8e) - _(10 mins)_
 
   ### GitHub
 
   - 🔖 [Download the gem](https://rubygems.org/gems/omniauth-github)
 
-  - 📃 [walk-through](https://salmaeng71.medium.com/devise-authentication-guide-with-github-omniauth-for-rails-application-220aa52d5b82) - _(5 mins)_
+  - 📃 [Walk-through](https://salmaeng71.medium.com/devise-authentication-guide-with-github-omniauth-for-rails-application-220aa52d5b82) - _(5 mins)_
 
   - 🔖 [Registering your app to GitHub APIs](https://github.com/settings/applications/new)
 
@@ -206,9 +206,9 @@
 
   - 🔖 [Download the gem](https://rubygems.org/gems/omniauth-twitter)
 
-  - 🎥 [walk-through](http://railscasts.com/episodes/241-simple-omniauth-revised?autoplay=true) by RailsCasts - _(11 mins)_
+  - 🎥 [Walk-through](http://railscasts.com/episodes/241-simple-omniauth-revised?autoplay=true) by RailsCasts - _(11 mins)_
 
-  - 🎥 walk-through by GoRails [Part 1](https://youtu.be/FbUWc8Vnu8Y) & [Part 2](https://youtu.be/o48-i4m6W78) - _(16 mins)_
+  - 🎥 Walk-through by GoRails [Part 1](https://youtu.be/FbUWc8Vnu8Y) & [Part 2](https://youtu.be/o48-i4m6W78) - _(16 mins)_
 
   - 🔖 [Registering your app to Twitter APIs](https://developer.twitter.com/en/portal/apps/new)
 
@@ -220,7 +220,7 @@
 
 - 📓 [GitHub repo](https://github.com/ddnexus/pagy)
 
-- 🎥 [walk-through](https://gorails.com/episodes/pagination-with-pagy-gem) by GoRails - _(11 mins)_
+- 🎥 [Walk-through](https://gorails.com/episodes/pagination-with-pagy-gem) by GoRails - _(11 mins)_
 
 ---
 
@@ -232,7 +232,7 @@
 
 - 🔖 [PDF Manual](https://prawnpdf.org/manual.pdf)
 
-- 🎥 [walk-through](https://youtu.be/e-A3zBeWDdE) by RailsCasts - _(12 mins)_
+- 🎥 [Walk-through](https://youtu.be/e-A3zBeWDdE) by RailsCasts - _(12 mins)_
 
 ---
 
@@ -252,7 +252,7 @@
 
 - 📓 [GitHub repo](https://github.com/deivid-rodriguez/pry-byebug)
 
-- 📃 [walk-through](https://remimercier.com/pry-byebug-tutorial) - _(8 mins)_
+- 📃 [Walk-through](https://remimercier.com/pry-byebug-tutorial) - _(8 mins)_
 
 ---
 
@@ -264,9 +264,9 @@
 
 - 🔖 [Rails i18n Cheat sheet](https://devhints.io/rails-i18n)
 
-- 🎥 walk-through by [Lokalise](https://youtu.be/hqC2zZqSrTI) or [GoRails](https://youtu.be/lCyP8uKRqQo)
+- 🎥 Walk-through by [Lokalise](https://youtu.be/hqC2zZqSrTI) or [GoRails](https://youtu.be/lCyP8uKRqQo)
 
-- 📃 [walk-through](https://lokalise.com/blog/rails-i18n/)
+- 📃 [Walk-through](https://lokalise.com/blog/rails-i18n/)
 
 ---
 
@@ -308,9 +308,9 @@
 
 - 📓 [GitHub repo](https://github.com/mperham/sidekiq)
 
-- 🎥 [walk-through](https://youtu.be/aaGSh38nzq8) by GoRails - _(6 mins)_
+- 🎥 [Walk-through](https://youtu.be/aaGSh38nzq8) by GoRails - _(6 mins)_
 
-- 🎥 [Deeper walk-through](https://youtu.be/GBEDvF1_8B8) - _(15 mins)_
+- 🎥 [Deeper Walk-through](https://youtu.be/GBEDvF1_8B8) - _(15 mins)_
   - Understanding BG Processes
   - Installing Redis
   - Sinatra
@@ -336,7 +336,7 @@
 
 - 🔖 [Homepage](https://stripe.com/in)
 
-- 🎥 [walk-through](http://railscasts.com/episodes/288-billing-with-stripe?autoplay=true) by RailsCasts - _(17 mins)_
+- 🎥 [Walk-through](http://railscasts.com/episodes/288-billing-with-stripe?autoplay=true) by RailsCasts - _(17 mins)_
 
 - 🔖 [Testing Cards](https://stripe.com/docs/testing#cards)
 
@@ -365,6 +365,6 @@
 
 - 🔖 [Create an Account](https://2factor.in/v3/?at_category=2factor&at_event_action=spr&service=BULK-SMS-OTP-SERVICE-PROVIDER)
 
-- 📃 [walk-through](https://jadhavkavita.medium.com/send-verify-otp-from-rails-application-with-2factor-4a88a08dbadc) - _(3 mins)_
+- 📃 [Walk-through](https://jadhavkavita.medium.com/send-verify-otp-from-rails-application-with-2factor-4a88a08dbadc) - _(3 mins)_
 
 ---
