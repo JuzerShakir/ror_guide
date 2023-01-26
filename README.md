@@ -8,6 +8,8 @@ _Providing best possible knowledge for the relevant topics._
 
 - **[Rails](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/rails.md)**
 
+- **[Gems](https://github.com/JuzerShakir/ror_guide/blob/master/gems.md)**
+
 - **[Interview](https://github.com/JuzerShakir/becoming_ruby_on_rails_dev/blob/master/interview.md)**
 
 - [README & Wiki template for Rails Project](https://github.com/JuzerShakir/ror_guide/tree/master/rails_template)
