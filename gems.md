@@ -224,6 +224,28 @@
 
 ---
 
+## Prawn
+
+- 🔖 [Download the gem](https://rubygems.org/gems/prawn)
+
+- 📓 [GitHub repo](https://github.com/prawnpdf/prawn)
+
+- 🔖 [PDF Manual](https://prawnpdf.org/manual.pdf)
+
+- 🎥 [walk-through](https://youtu.be/e-A3zBeWDdE) by RailsCasts - _(12 mins)_
+
+---
+
+## Prawn Table
+
+- 🔖 [Download the gem](https://rubygems.org/gems/prawn-table)
+
+- 📓 [GitHub repo](https://github.com/prawnpdf/prawn-table)
+
+- 🔖 [PDF Manual](https://prawnpdf.org/prawn-table-manual.pdf)
+
+---
+
 ## Pry Byebug
 
 - 🔖 [Download the gem](https://rubygems.org/gems/pry-byebug)
