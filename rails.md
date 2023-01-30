@@ -771,3 +771,5 @@
 - 🎥 [How to interpret a Stacktrace](https://youtu.be/xwRao5OZzSU) - _(13 mins)_
 
 - 🎥 [Custom Error Pages](https://youtu.be/_laCIdQmOr4) - _(9 mins)_
+
+- 🔖 [Tailscan](https://tailscan.com/)
