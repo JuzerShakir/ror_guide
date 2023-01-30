@@ -150,7 +150,10 @@
 
 - 🔖 [Official Guides](http://www.rubygeocoder.com/)
 
-- 🎥 Walk-through by [GoRails](https://youtu.be/3kwXvmH-ee0) or [RailsCasts](http://railscasts.com/episodes/273-geocoder?autoplay=true)
+- 🎥 Walk-through by 
+  -  [GoRails](https://youtu.be/3kwXvmH-ee0)
+  -  [RailsCasts](http://railscasts.com/episodes/273-geocoder?autoplay=true)
+  -  [SupeRails](https://youtu.be/oeeqEA_mdJs)
 
 - 📃 [Walk-through](https://medium.com/@tali.scheer/ruby-geocoder-gem-9733650e9339) - _(6 mins)_
 
