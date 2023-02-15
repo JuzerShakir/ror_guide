@@ -630,6 +630,8 @@
   - 🎥 [walk-through 2](https://youtu.be/4fIuxdeQxR0) _(21 mins)_
 
   - 🎥 [Test Automation University](https://testautomationu.applitools.com/capybara-ruby/) _(Tutorial Series)_
+  
+  - 📓 [Rack_session_access](https://github.com/railsware/rack_session_access) _(A gem To set sessions in feature tests)_
 
   ## Factory Bot Rails
 
