@@ -518,17 +518,16 @@
     - Sprockets Manifests
     - Preprocessors
   
-- 📃 [Understanding Asset Pipeline](https://medium.com/@adamzerner/rails-asset-pipeline-982f3ea75596) - _(9 mins)
+- 📃 [Understanding Asset Pipeline](https://medium.com/@adamzerner/rails-asset-pipeline-982f3ea75596) - _(9 mins)_
     - Concatenate
     - Minify
     - Pre-processing
     - Manifests
     - Fingerprinting
 
-- 🎥 [Asset Pipeline in Rails 7](https://youtu.be/cQQH9sEhnnY) - _(4 mins)_
+- 🎥 [Asset Pipeline in Rails 7](https://youtu.be/cQQH9sEhnnY) by Mix & GO- _(4 mins)_
 
-
-- 🎥 [Demystifying the Asset Pipeline](https://youtu.be/phAwVI2BcK4?t=40) - _(19 mins)_
+- 🎥 [Demystifying the Asset Pipeline](https://youtu.be/phAwVI2BcK4?t=40) by Drifting Ruby- _(19 mins)_
     - Sprockets
     - Webpacker
     - jsbundline [esbuild, rollup or webpack]
