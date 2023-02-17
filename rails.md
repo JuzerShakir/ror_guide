@@ -572,6 +572,8 @@
 
 - 🎥 [spec_helpers vs rails_helper](https://youtu.be/UkctRoFvSuc) - _(20 mins)_
 
+- 🎥 [7 reasons for having flaky tests](https://youtu.be/ZQn1uTTksko) - _(12 mins)_
+
   ### Matchers
 
   - 🔖 [Official Matchers Doc](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
