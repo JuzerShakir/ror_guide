@@ -511,15 +511,30 @@
   - Adding assets to your gems.
 
 - 🎥 [Understanding Asset Pipeline](https://youtu.be/l0E-D53gEL0) by RailsCasts- _(12 mins)_
-- 📃 [Understanding Asset Pipeline](https://medium.com/@adamzerner/rails-asset-pipeline-982f3ea75596) - _(9 mins)_
-
-  - Concatenate
-  - Minify
-  - Pre-processing
-  - Fingerprinting
+    - Accessing assets file through URL
+    - Different asset directories
+    - Listing all the asset paths
+    - Opening specific gem
+    - Sprockets Manifests
+    - Preprocessors
+  
+- 📃 [Understanding Asset Pipeline](https://medium.com/@adamzerner/rails-asset-pipeline-982f3ea75596) - _(9 mins)
+    - Concatenate
+    - Minify
+    - Pre-processing
+    - Manifests
+    - Fingerprinting
 
 - 🎥 [Asset Pipeline in Rails 7](https://youtu.be/cQQH9sEhnnY) - _(4 mins)_
 
+
+- 🎥 [Demystifying the Asset Pipeline](https://youtu.be/phAwVI2BcK4?t=40) - _(19 mins)_
+    - Sprockets
+    - Webpacker
+    - jsbundline [esbuild, rollup or webpack]
+    - cssbundling [bootstrap, Tailwind, PostCSS, Bulma or Dart Sass]
+    - Importmap
+ 
 ---
 
 # RSpec
