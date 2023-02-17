@@ -468,7 +468,7 @@
 
 - 🔖 [Official Doc](https://guides.rubyonrails.org/active_job_basics.html)
 
-- 🔖 [Studying ActiveStorage Module](https://api.rubyonrails.org/classes/ActiveJob.html)
+- 🔖 [Studying ActiveJob Module](https://api.rubyonrails.org/classes/ActiveJob.html)
 
 - 🎥 [ActiveJob Introduction](https://youtu.be/vvNJlgiQtGQ) by GoRails - _(9 mins)_
 
