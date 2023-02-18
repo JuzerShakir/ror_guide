@@ -1,6 +1,6 @@
 # An ultimate guide for ROR Devs
 
-_Providing best possible knowledge for the relevant topics._
+_Providing best possible knowledge/resources for the relevant topics._
 
 ## Guides
 
@@ -42,5 +42,5 @@ _Providing best possible knowledge for the relevant topics._
 
 **Contributions are welcome.** 😀
 
-- ✅ Topics and questions that are not covered in these pages.
-- ✅ Have a much better resource to an existing question or topic.
+- ✅ Topics or questions that are not covered in these pages.
+- ✅ Have a much better link to a resource/ or resources to an existing question or topic.
