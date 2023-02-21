@@ -793,3 +793,7 @@
 - 🎥 [Custom Error Pages](https://youtu.be/_laCIdQmOr4) - _(9 mins)_
 
 - 🔖 [Tailscan](https://tailscan.com/)
+
+- 🔖 [Galileo AI](https://www.usegalileo.ai/) (Idea to design in an instant)
+
+
