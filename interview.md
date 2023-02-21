@@ -37,6 +37,7 @@
 
 - [RailsDev](https://railsdevs.com/)
 - [Go Rails](https://jobs.gorails.com/) (Job Posting)
+- [NetworkAI](https://app.wonsulting.ai/networking-tool) (Expanding your network)
 
   ### LinkedIn
 
