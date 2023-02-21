@@ -326,6 +326,9 @@
 
   - 📃 [Optimistic vs. Pessimistic locking](https://medium.com/@rohan_daxini/optimistic-vs-pessimistic-locking-in-rails-edd553f6c2eb) - _(4 mins)_
 
+  - 🔖 [Text2SQL](https://www.text2sql.ai/) (Generate SQL with AI)
+
+
     ### Eager Loading
 
     - 🎥 [Eager Loading Explained](http://railscasts.com/episodes/22-eager-loading-revised?autoplay=true) by RailsCasts - _(7 mins)_
