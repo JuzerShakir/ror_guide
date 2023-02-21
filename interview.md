@@ -119,7 +119,9 @@
 
   - 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE) - _(7 mins)_
 
-  - 🎥 [Where Do You See Yourself in 5 Years?](https://youtu.be/gGU3TunJqH0) - _(6 mins)_
+  - 🎥 Where Do You See Yourself in 5 Years? 
+    - [Long](https://youtu.be/gGU3TunJqH0) - _(6 mins)_
+    - [Shorts](https://youtube.com/shorts/BaBI10iP_Xo?feature=share)
 
   ### Do's and Don'ts
 
