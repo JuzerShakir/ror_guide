@@ -642,7 +642,7 @@
 
   - 🔖 [Capybara Cheat sheet](https://devhints.io/capybara)
   
-  - 🔖 [Insatnce methods]([https://devhints.io/capybara](https://rubydocs.org/d/capybara-3-10-1/classes/Capybara/Session.html))
+  - 🔖 [Instance methods](https://rubydocs.org/d/capybara-3-10-1/classes/Capybara/Session.html)
 
   - 🎥 [walk-through 1](https://youtu.be/nsj7nBslgnk) _(15 mins)_
 
