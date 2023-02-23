@@ -225,6 +225,8 @@
 
 - 🎥 [Walk-through](https://gorails.com/episodes/pagination-with-pagy-gem) by GoRails - _(11 mins)_
 
+- 🎥 [Customization](https://youtu.be/1tsWL4EjhMo) by SupeRails - _(15 mins)_
+
 ---
 
 ## Prawn
