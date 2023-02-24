@@ -511,29 +511,31 @@
   - Adding assets to your gems.
 
 - 🎥 [Understanding Asset Pipeline](https://youtu.be/l0E-D53gEL0) by RailsCasts- _(12 mins)_
-    - Accessing assets file through URL
-    - Different asset directories
-    - Listing all the asset paths
-    - Opening specific gem
-    - Sprockets Manifests
-    - Preprocessors
-  
+
+  - Accessing assets file through URL
+  - Different asset directories
+  - Listing all the asset paths
+  - Opening specific gem
+  - Sprockets Manifests
+  - Preprocessors
+
 - 📃 [Understanding Asset Pipeline](https://medium.com/@adamzerner/rails-asset-pipeline-982f3ea75596) - _(9 mins)_
-    - Concatenate
-    - Minify
-    - Pre-processing
-    - Manifests
-    - Fingerprinting
+
+  - Concatenate
+  - Minify
+  - Pre-processing
+  - Manifests
+  - Fingerprinting
 
 - 🎥 [Asset Pipeline in Rails 7](https://youtu.be/cQQH9sEhnnY) by Mix & GO- _(4 mins)_
 
 - 🎥 [Demystifying the Asset Pipeline](https://youtu.be/phAwVI2BcK4?t=40) by Drifting Ruby- _(19 mins)_
-    - Sprockets
-    - Webpacker
-    - jsbundline [esbuild, rollup or webpack]
-    - cssbundling [bootstrap, Tailwind, PostCSS, Bulma or Dart Sass]
-    - Importmap
- 
+  - Sprockets
+  - Webpacker
+  - jsbundline [esbuild, rollup or webpack]
+  - cssbundling [bootstrap, Tailwind, PostCSS, Bulma or Dart Sass]
+  - Importmap
+
 ---
 
 # RSpec
@@ -638,7 +640,7 @@
   - 🔖 [Download the gem](https://rubygems.org/gems/capybara)
 
   - 🔖 [Capybara Cheat sheet](https://devhints.io/capybara)
-  
+
   - 🔖 [Instance methods](https://rubydocs.org/d/capybara-3-10-1/classes/Capybara/Session.html)
 
   - 🎥 [walk-through 1](https://youtu.be/nsj7nBslgnk) _(15 mins)_
@@ -646,7 +648,7 @@
   - 🎥 [walk-through 2](https://youtu.be/4fIuxdeQxR0) _(21 mins)_
 
   - 🎥 [Test Automation University](https://testautomationu.applitools.com/capybara-ruby/) _(Tutorial Series)_
-  
+
   - 📓 [Rack_session_access](https://github.com/railsware/rack_session_access) _(A gem To set sessions in feature tests)_
 
   ## Factory Bot Rails
