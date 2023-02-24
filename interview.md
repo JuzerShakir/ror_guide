@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Interview Motivation](#interview-motivation)
+- [Prepare Your Resume](#prepare-your-resume)
 - [Open To Work](#open-to-work)
 - [Preparations](#preparations)
 - [At Interview](#at-interview)
@@ -30,6 +31,14 @@
 - 🎥 [Tips for Junior Rails Developers](https://youtu.be/Q1yCuQZu7-0) - _(12 mins)_
 
 - 📃 [Publish your work, increase your luck](https://github.com/readme/guides/publishing-your-work) (Published by GitHub) - _(7 mins)_
+
+---
+
+## Prepare Your Resume
+
+- [Nova](https://novoresume.com/editor)
+- [Canva](https://www.canva.com/)
+- [WonsultingAI](https://app.wonsulting.ai/) _(Create Resumes and Build network on Linkedin with the help of AI)_
 
 ---
 
@@ -120,7 +129,7 @@
 
   - 🎥 [How To Stand Out In An Interview](https://youtu.be/UXaLyy1twaE) - _(7 mins)_
 
-  - 🎥 Where Do You See Yourself in 5 Years? 
+  - 🎥 Where Do You See Yourself in 5 Years?
     - [Long](https://youtu.be/gGU3TunJqH0) - _(6 mins)_
     - [Shorts](https://youtube.com/shorts/BaBI10iP_Xo?feature=share)
 
