@@ -293,6 +293,8 @@
 
 - 📓 [GitHub repo](https://github.com/ambethia/recaptcha/)
 
+- 🔖 [Setting up Google reCAPTCHA](https://www.google.com/recaptcha/admin/site/488400939)
+
 - 📓 [Using with Devise](https://github.com/heartcombo/devise/wiki/How-To:-Use-Recaptcha-with-Devise)
 
 - 📓 [Using with Turbo & Stimulus](https://github.com/ambethia/recaptcha/wiki/Recaptcha-with-Turbo-and-Stimulus)
