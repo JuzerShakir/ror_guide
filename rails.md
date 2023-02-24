@@ -326,9 +326,6 @@
 
   - 📃 [Optimistic vs. Pessimistic locking](https://medium.com/@rohan_daxini/optimistic-vs-pessimistic-locking-in-rails-edd553f6c2eb) - _(4 mins)_
 
-  - 🔖 [Text2SQL](https://www.text2sql.ai/) (Generate SQL with AI)
-
-
     ### Eager Loading
 
     - 🎥 [Eager Loading Explained](http://railscasts.com/episodes/22-eager-loading-revised?autoplay=true) by RailsCasts - _(7 mins)_
@@ -794,19 +791,3 @@
 - 🎥 [How to interpret a Stacktrace](https://youtu.be/xwRao5OZzSU) - _(13 mins)_
 
 - 🎥 [Custom Error Pages](https://youtu.be/_laCIdQmOr4) - _(9 mins)_
-
-- 🔖 [Tailscan](https://tailscan.com/)
-
-- 🔖 [Galileo AI](https://www.usegalileo.ai/) (Idea to design in an instant)
-
-- 🔖 [Descript](https://www.descript.com/) (new way to make video and podcasts)
-
-- 🔖 [Prime Voice AI](https://beta.elevenlabs.io/) (AI speech software)
-
-- 🔖 [Runway](https://runwayml.com/) (Online video editing software / Text to Image / Image to Image)
-
-- 🔖 [D-ID](https://www.d-id.com/) (Videos featuring talking avatars)
-
-- 🔖 [Looka](https://looka.com/) (AI-powered platform to design a logo and build a brand)
-
-- 🔖 [Timehero](https://www.timehero.com/) (Automatically plan daily tasks, projects, and recurring work)
