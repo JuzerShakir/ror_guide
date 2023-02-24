@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [CSS](#css)
-  - [Colors](@colors)
+  - [Colors](#colors)
 - [Icons](#icons)
 - [UI](#ui)
 - [Images](#images)
