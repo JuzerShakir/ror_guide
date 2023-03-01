@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [AASM](#aasm)
+- [Annotate](#annotate)
 - [Authentication Zero](#authentication-zero)
 - [BCrypt](#bcrypt)
 - [Bullet](#bullet)
@@ -40,6 +41,17 @@
 - 📓 [GitHub repo](https://github.com/aasm/aasm)
 
 - 🎥 [Walk-through](https://youtu.be/fBEQTbfnCYo?t=38) - _(19 mins)_
+
+---
+
+
+## Annotate
+
+- 🔖 [Download the gem](https://rubygems.org/gems/annotate)
+
+- 📓 [GitHub repo](https://github.com/ctran/annotate_models)
+
+- 🎥 [Walk-through](https://youtu.be/L3lHec3oIiA) - _(7 mins)_
 
 ---
 
