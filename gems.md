@@ -11,6 +11,7 @@
 - [Friendly ID](#friendly-id)
 - [Geocoder](#geocoder)
 - [Humanize](#humanize)
+- [Kredis](#kredis)
 - [Omniauth](#omniauth)
 - [Pagy](#pagy)
 - [Prawn](#prawn)
@@ -179,6 +180,16 @@
 - 📓 [GitHub repo](https://github.com/radar/humanize)
 
 - 📃 [Official Doc](https://www.rubydoc.info/gems/humanize/2.5.1)
+
+---
+
+## Kredis
+
+- 🔖 [Download the gem](https://rubygems.org/gems/kredis)
+
+- 📓 [GitHub repo](https://github.com/rails/kredis)
+
+- 🎥 [Walk-through](https://youtu.be/ZXPGxUeQN_g) by SupeRails - _(8 mins)
 
 ---
 
