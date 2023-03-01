@@ -429,6 +429,8 @@
 
 - 🔖 [Routes Cheat sheet](https://devhints.io/rails-routes)
 
+- 🎥 [Basics Overview](https://youtu.be/F3aPSBTPiRM) - _(23 mins)_
+
 - 🎥 [Routes Overview](https://youtu.be/q6C1vCIez_s) by GoRails - _(10 mins)_
 
   - Using `member` & `collection` methods.
