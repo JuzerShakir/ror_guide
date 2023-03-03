@@ -5,6 +5,7 @@
 - [Authentication Zero](#authentication-zero)
 - [BCrypt](#bcrypt)
 - [Bullet](#bullet)
+- [Callstacking Rails](#callstacking)
 - [Cloudinary](#cloudinary)
 - [Devise](#devise)
 - [Faker](#faker)
@@ -85,6 +86,18 @@
 - 📓 [GitHub repo](https://github.com/flyerhzm/bullet)
 
 ---
+
+
+## Callstacking
+
+- 🔖 [Download the gem](https://rubygems.org/gems/callstacking-rails)
+
+- 📓 [GitHub repo](https://github.com/callstacking/callstacking-rails)
+
+- 🔖 [Official Site](https://callstacking.com/)
+
+---
+
 
 ## Cloudinary
 
