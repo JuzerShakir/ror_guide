@@ -22,6 +22,7 @@
 - [Ransack](#ransack)
 - [reCAPTCHA](#recaptcha)
 - [Rename](#rename)
+- [Rubocop Rails](#rubocop-rails)
 - [Sidekiq](#sidekiq)
 - [Spree](#spree)
 - [Stripe](#stripe)
@@ -344,6 +345,16 @@
 - 🔖 [Download the gem](https://rubygems.org/gems/rename)
 
 - 📓 [GitHub repo](https://github.com/morshedalam/rename)
+
+---
+
+## Rubocop Rails
+
+- 🔖 [Download the gem](https://rubygems.org/gems/rubocop-rails)
+
+- 📓 [GitHub repo](https://github.com/rubocop/rubocop-rails/)
+
+- 🎥 [Walk-through](https://youtu.be/fDOz0ljQB2k?t=227)
 
 ---
 
