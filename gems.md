@@ -25,6 +25,7 @@
 - [Sidekiq](#sidekiq)
 - [Spree](#spree)
 - [Stripe](#stripe)
+- [Traceroute](#traceroute)
 - [Watir](#watir)
 - [2 Factor](#2-factor)
 
@@ -383,6 +384,16 @@
 - 🎥 [Walk-through](http://railscasts.com/episodes/288-billing-with-stripe?autoplay=true) by RailsCasts - _(17 mins)_
 
 - 🔖 [Testing Cards](https://stripe.com/docs/testing#cards)
+
+---
+
+## Traceroute
+
+- 🔖 [Download the gem](https://rubygems.org/gems/traceroute)
+
+- 📓 [GitHub repo](https://github.com/amatsuda/traceroute)
+
+- 🎥 [Walk-through](https://youtu.be/fDOz0ljQB2k?t=2250) - _(7 mins)_
 
 ---
 
