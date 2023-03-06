@@ -34,6 +34,8 @@
 
 - 🔖 [RubyGems](https://rubygems.org/)
 
+- 🎥 [Walk-through](https://youtu.be/QDcf-Nga0Nw) - _(10 mins)_
+
 - 🎥 [Semantic Versioning](https://youtu.be/K2niwXiXZTo) - _(9 mins)_
 
 ---
