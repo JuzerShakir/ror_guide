@@ -559,6 +559,8 @@
 
 - 🔖 [RSpec Rails Cheat sheet](https://devhints.io/rspec-rails)
 
+- 🔖 [RSpec Style Guide](https://rspec.rubystyle.guide/)
+
 - 🎥 [A deep walk-through](https://youtu.be/mHPKEdgLirA) _(30 mins)_
 
 - 🎥 [Testing Rails Models](https://youtu.be/Vwb5LalpRwI) - _(28 mins)_
