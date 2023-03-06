@@ -118,6 +118,8 @@
 
 - 🔖 [Official Rails API Doc](https://api.rubyonrails.org/)
 
+- 🔖 [Rails Style Guide](https://rails.rubystyle.guide/)
+
 - 🔖 [What's new in rails](https://rubyonrails.org/category/releases)
 
 - 🔖 [Rails Blog](https://rubyonrails.org/blog/)
