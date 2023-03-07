@@ -53,6 +53,8 @@ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703
 
 - 🎥 [Switching ruby versions](https://youtu.be/pkdhgQ1t6ag?t=312) automatically when navigating to different folders - _(5 mins)_
 
+- 🔖 [Setting default ruby version](https://rvm.io/rubies/default)
+
 ---
 
 ## Courses
