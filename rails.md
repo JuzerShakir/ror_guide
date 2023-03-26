@@ -259,6 +259,8 @@
   - 🎥 [Validations for beginners](https://youtu.be/l-Jv5vMjB70) - _(7 mins)_
 
   - 🎥 [Custom Validations](https://youtu.be/nPS-dalL_hQ?t=358) _(5 mins)_
+  
+  - 🔖 [ActiveModel::Errors](https://api.rubyonrails.org/v7.0.4.2/classes/ActiveModel/Errors.html)
 
   ## Callbacks
 
