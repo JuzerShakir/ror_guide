@@ -89,6 +89,9 @@
 
 - 📓 [GitHub repo](https://github.com/flyerhzm/bullet)
 
+- 🎥 [Quick Overview](https://youtu.be/noqAaAQ_V_U) - _(8 mins)_
+
+
 ---
 
 
