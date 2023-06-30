@@ -71,7 +71,7 @@
 
 - 🎥 [How to compete against CS degrees (as a self-taught dev)](https://youtu.be/xsL-5MhQWBk) - _(6 mins)_
 
-- 🔖 Revise all the built-in methods for [String](https://ruby-doc.org/3.1.2/String.html), [Array](https://ruby-doc.org/3.1.2/Array.html), [Hash](https://ruby-doc.org/3.1.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.1.2/Enumerable.html) Classes and Module respectively.
+- 🔖 Revise all the built-in methods for [String](https://ruby-doc.org/3.2.2/String.html), [Array](https://ruby-doc.org/3.2.2/Array.html), [Hash](https://ruby-doc.org/3.2.2/Hash.html) & [Enumerable](https://ruby-doc.org/3.2.2/Enumerable.html) Classes and Module respectively.
 
 - 🔘 Revise all the useful shortcuts of VS-Code & your terminal.
 
@@ -163,7 +163,7 @@
 
   - 📃 [Five Questions to ask](https://github.com/readme/guides/technical-interviews) (Published by GitHub) - _(4 mins)_
     - How will I fail?
-    - How do you incentivise your team?
+    - How do you incentivize your team?
     - An example of something the team did that didn’t go well.
     - What does the shipping look like?
     - How much attention do you pay to reducing friction for the engineering team?
