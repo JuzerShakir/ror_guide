@@ -79,6 +79,8 @@
 
 - 🔘 Go through all of the projects and prepare yourself to explain it.
 
+- 📃 [Revise key concepts of Ruby](https://dev.to/rubycademy/your-journey-as-a-mid-level-ruby-on-rails-developer-49if)
+
 - 📃 [53 Ruby on Rails Interview Questions and Answers](https://medium.com/ruby-daily/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7) - _(13 mins)_
 
 - 🎥 _(Questions Playlist)_ [ROR FAQs](https://youtube.com/playlist?list=PL6SEI86zExmvCaLJMY9tFdP35NzCs2QdK)
